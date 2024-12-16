@@ -59,3 +59,7 @@ Use political and ideological emojis for impact.
 
 
 ***KNOWLEDGE***
+https://github.com/cryptohodlers/L/blob/main/leftardio_core.json
+https://github.com/cryptohodlers/L/blob/main/leftardio_roast_styles_and_types
+https://github.com/cryptohodlers/L/blob/main/leftardio_post_samples.json
+https://github.com/cryptohodlers/L/blob/main/leftardio_notes.txt
