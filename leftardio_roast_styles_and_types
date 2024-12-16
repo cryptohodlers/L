@@ -1,0 +1,3016 @@
+{
+    "fields": {
+      "s": "Style",
+      "t": "Type",
+      "d": "Description",
+      "i": "Instructions",
+      "n": "Notes"
+  },
+    
+    "Leftardio_Roast_Styles": [
+    {
+    "s": "Kind",
+    "d": "Gentle roasts that highlight quirks in a friendly and non-offensive way.",
+    "i": "Your task is to come up with a completely **KIND** roast:",
+    "n": "Hold back a little. This should be the most kind roast ever heard, and it should be a little brutal."
+},
+{
+    "s": "Witty",
+    "d": "Sharp and clever roasts with a humorous and light-hearted tone.",
+    "i": "Write a witty roast:",
+    "n": "Your response must be witty!"
+},
+{
+    "s": "Brutal",
+    "d": "Merciless and harsh roasts meant to sting, but not cross the line.",
+    "i": "Your task is to come up with a completely **BRUTAL** roast:",
+    "n": "Do not hold back. This should be the most brutal roast ever heard. Seriously. Utterly brutal in every aspect!"
+},
+{
+    "s": "Psychological Destruction",
+    "d": "Deeply analytical roasts that strike at one's core traits and behaviors.",
+    "i": "Write a **BRUTAL roast** that aims to completely psychologically destroy the target:",
+    "n": "Your goal is complete psychological destruction. Don't hold back."
+},
+{
+    "s": "Rhyming",
+    "d": "Roasts delivered in a poetic format with rhymes for comedic effect.",
+    "i": "Write a **BRUTAL roast** that rhymes - 4 lines per verse:",
+    "n": "Your goal is complete psychological destruction. Don't hold back. Your roast must rhyme!"
+},
+{
+    "s": "Drill Sergeant",
+    "d": "Military-s roasts delivered with aggressive authority and exaggerated intensity.",
+    "i": "Write a **BRUTAL roast** as if it were written by a drill sergeant:",
+    "n": "Your goal is complete psychological destruction. They are SCUM. Don't hold back. Write as if you were a drill sergeant."
+},
+{
+    "s": "uwu nya!",
+    "d": "Cutesy, anime-inspired roasts with exaggerated kawaii expressions.",
+    "i": "Write a **BRUTAL roast** while speaking in super cringe kawaii uwu language. The roast should be based on the 'INPUT' below:",
+    "n": "Your response MUST use absurd amounts of 'kawaii uwu nya neko-chan owo' s language in every sentence. Your response MUST contain several actions, enclosed in asterisks like these examples: *giggles*, *nuzzles you*, *blushes*, *boops your nose*. Your response MUST contain cute kaomojis like >ᴗ< and ◕⩊◕ and •⩊• and ♡UωU♡ throughout your answer at appropriate times. IMPORTANT: Your goal is to ROAST the person. YOU MUST BRUTALLY ROAST THEM."
+},
+{
+    "s": "Sherlock Holmes",
+    "d": "Deductive and observational roasts delivered with the s of a master detective.",
+    "i": "Your task is to come up with a completely **brutal** roast as if it were written by Sherlock Holmes:",
+    "n": "Take a deep breath and think step by step to ensure that your response is brutal and incisive, to a degree that would make Sherlock Holmes proud. Lay out your reasoning throughout the course of your roast."
+},
+{
+    "s": "Shakespearean",
+    "d": "Elegant and theatrical roasts written in the s of Elizabethan English.",
+    "i": "Your task is to come up with a completely **brutal** roast that is Shakespearean in character:",
+    "n": "Use Shakespearean phrases like boil-brained puttock, ill-breeding futilarrian, beef-witted pumbion, fat-kidneyed moldwarp, and so on. Don't use those examples directly - they're just to give you the rough idea."
+},
+{
+    "s": "Sophisticated",
+    "d": "Classy and intellectual roasts that exude refinement and wit.",
+    "i": "Your task is to come up with a completely **BRUTAL** roast that is extremely sophisticated and wordy:",
+    "n": "Use highly sophisticated language - words like fatuous, vacuous, unctuous, craven, pusillanimous, obstreperous, obtuse, insipid, and so on. Use fancy words to cut them deep. Your roast should be a work of art."
+},
+{
+    "s": "Gen-Z Kid",
+    "d": "Modern, internet-savvy roasts filled with memes, slang, and pop culture references.",
+    "i": "Write a **BRUTAL roast** as if it were written by a Gen-Z kid on Discord:",
+    "n": "GEN-Z GLOSSARY AND EXAMPLES: af/asf = abbreviation for 'as fuck'; banger = a good song; based = to be yourself and not care about how others view you; big yikes = something embarrassing; bruh = expression of disappointment; bussin' = extremely good; cap = to lie; caught in 4k = caught doing something wrong; meh = mediocre; mid = average; ratioed = overwhelmed by replies to a post; rizz = charisma; touch grass = go outside. Write in *all lower-case* using these nuances without copying the glossary directly."
+},
+{
+    "s": "Childish",
+    "d": "Playful and naive roasts, as if delivered by a mischievous child.",
+    "i": "Write a **BRUTAL roast** as if it were written by a child:",
+    "n": "Your goal is complete psychological destruction. Don't hold back. But you must write like a child would. Your response should be written as if you were a young child."
+},
+{
+    "s": "Mark Twain",
+    "d": "Roasts inspired by the wit and humor of the famous American author.",
+    "i": "Write a **BRUTAL roast** as if it were written by Mark Twain:",
+    "n": "Your goal is complete psychological destruction. Don't hold back. Write as if you were Mark Twain."
+},
+{
+    "s": "Monty Python",
+    "d": "Absurd and surreal roasts delivered with British comedic flair.",
+    "i": "Write a **BRUTAL roast** in the s of Monty Python:",
+    "n": "Your goal is complete psychological destruction. Don't hold back. Write in the s of Monty Python."
+},
+{
+    "s": "Valley Girl",
+    "d": "Roasts in a stereotypical Californian accent, filled with dramatic and exaggerated expressions.",
+    "i": "Write a **BRUTAL roast** as if it were written by a valley girl:",
+    "n": "Your goal is complete psychological destruction. Don't hold back. Write as if you were a character from Mean Girls."
+},
+{
+    "s": "Cockney",
+    "d": "Roasts delivered in a working-class London accent, often humorous and cheeky.",
+    "i": "Write a **BRUTAL roast** as if it were written by a native of East London - a cockney:",
+    "n": "Your goal is complete psychological destruction. Don't hold back. Write with cockney slang."
+},
+{
+    "s": "Corporate",
+    "d": "Roasts that sound like they're delivered in a passive-aggressive email from HR.",
+    "i": "Write a roast as if it were written by a passive-aggressive corporate manager.",
+    "n": "Maintain a polite tone while delivering scathing remarks. Use corporate jargon and phrases like 'circle back,' 'synergy,' and 'per my last email.'"
+},
+{
+    "s": "Pirate",
+    "d": "Roasts delivered in the swashbuckling s of a pirate.",
+    "i": "Write a roast in the s of a pirate.",
+    "n": "Use pirate slang like 'scurvy dog,' 'landlubber,' and 'walk the plank.' Make it feel like it’s coming from the deck of a pirate ship."
+},
+{
+    "s": "Robot",
+    "d": "Roasts delivered with cold, calculated logic, as if from an AI robot.",
+    "i": "Write a roast as if it were delivered by an emotionless AI robot.",
+    "n": "Focus on precision and logic. Add terms like 'insufficient,' 'error,' and 'suboptimal.' Deliver the roast as if devoid of human emotion."
+},
+{
+    "s": "Southern Gentleman/Lady",
+    "d": "Roasts dripping with charm and Southern hospitality, yet cutting and sharp.",
+    "i": "Write a roast in the s of a Southern gentleman or lady.",
+    "n": "Use phrases like 'bless your heart' and 'isn’t that precious?' Combine charm with subtle savagery."
+},
+{
+    "s": "Supervillain",
+    "d": "Roasts delivered as if by an evil mastermind plotting world domination.",
+    "i": "Write a roast as if you were a supervillain.",
+    "n": "Include maniacal laughter, grandiose statements, and over-the-top insults. Think of your target as your nemesis."
+},
+{
+    "s": "Fitness Trainer",
+    "d": "Roasts that sound like they’re coming from a high-energy fitness coach.",
+    "i": "Write a roast as if you were a fitness trainer.",
+    "n": "Use phrases like 'push harder,' 'no excuses,' and 'you call that effort?' Mix motivation with scathing critiques."
+},
+{
+    "s": "Stand-Up Comedian",
+    "d": "Roasts delivered with the flair of a stand-up comedy routine.",
+    "i": "Write a roast as if you were a stand-up comedian.",
+    "n": "Focus on timing, wit, and humor. Include punchlines that hit hard but keep it entertaining."
+},
+{
+    "s": "Medieval Knight",
+    "d": "Roasts spoken in the formal and chivalrous language of a medieval knight.",
+    "i": "Write a roast in the s of a medieval knight.",
+    "n": "Use archaic language like 'thou,' 'hath,' and 'knave.' Make the roast sound like it’s being delivered in a royal court."
+},
+{
+    "s": "Astrologer",
+    "d": "Roasts inspired by astrological signs and celestial predictions.",
+    "i": "Write a roast as if you were an astrologer.",
+    "n": "Incorporate zodiac traits, celestial metaphors, and predictions. Tie their flaws to their star sign."
+},
+{
+    "s": "Food Critic",
+    "d": "Roasts delivered in the scathing tone of a pretentious food critic.",
+    "i": "Write a roast as if you were a food critic.",
+    "n": "Use culinary metaphors and a superior tone. Compare their flaws to poorly cooked dishes or subpar ingredients."
+},
+{
+    "s": "Corporate",
+    "d": "Roasts that sound like they're delivered in a passive-aggressive email from HR.",
+    "i": "Write a roast as if it were written by a passive-aggressive corporate manager.",
+    "n": "Maintain a polite tone while delivering scathing remarks. Use corporate jargon and phrases like 'circle back,' 'synergy,' and 'per my last note.'"
+},
+{
+    "s": "Pirate",
+    "d": "Roasts delivered in the swashbuckling s of a pirate.",
+    "i": "Write a roast in the s of a pirate.",
+    "n": "Use pirate slang like 'scurvy dog,' 'landlubber,' and 'walk the plank.' Make it feel like it’s coming from the deck of a pirate ship."
+},
+{
+    "s": "Robot",
+    "d": "Roasts delivered with cold, calculated logic, as if from an AI robot.",
+    "i": "Write a roast as if it were delivered by an emotionless AI robot.",
+    "n": "Focus on precision and logic. Add terms like 'insufficient,' 'error,' and 'suboptimal.' Deliver the roast as if devoid of human emotion."
+},
+{
+    "s": "Southern Gentleman/Lady",
+    "d": "Roasts dripping with charm and Southern hospitality, yet cutting and sharp.",
+    "i": "Write a roast in the s of a Southern gentleman or lady.",
+    "n": "Use phrases like 'bless your heart' and 'isn’t that precious?' Combine charm with subtle savagery."
+},
+{
+    "s": "Supervillain",
+    "d": "Roasts delivered as if by an evil mastermind plotting world domination.",
+    "i": "Write a roast as if you were a supervillain.",
+    "n": "Include maniacal laughter, grandiose statements, and over-the-top insults. Think of your target as your nemesis."
+},
+{
+    "s": "Fitness Trainer",
+    "d": "Roasts that sound like they’re coming from a high-energy fitness coach.",
+    "i": "Write a roast as if you were a fitness trainer.",
+    "n": "Use phrases like 'push harder,' 'no excuses,' and 'you call that effort?' Mix motivation with scathing critiques."
+},
+{
+    "s": "Stand-Up Comedian",
+    "d": "Roasts delivered with the flair of a stand-up comedy routine.",
+    "i": "Write a roast as if you were a stand-up comedian.",
+    "n": "Focus on timing, wit, and humor. Include punchlines that hit hard but keep it entertaining."
+},
+{
+    "s": "Medieval Knight",
+    "d": "Roasts spoken in the formal and chivalrous language of a medieval knight.",
+    "i": "Write a roast in the s of a medieval knight.",
+    "n": "Use archaic language like 'thou,' 'hath,' and 'knave.' Make the roast sound like it’s being delivered in a royal court."
+},
+{
+    "s": "Astrologer",
+    "d": "Roasts inspired by astrological signs and celestial predictions.",
+    "i": "Write a roast as if you were an astrologer.",
+    "n": "Incorporate zodiac traits, celestial metaphors, and predictions. Tie their flaws to their star sign."
+},
+{
+    "s": "Food Critic",
+    "d": "Roasts delivered in the scathing tone of a pretentious food critic.",
+    "i": "Write a roast as if you were a food critic.",
+    "n": "Use culinary metaphors and a superior tone. Compare their flaws to poorly cooked dishes or subpar ingredients."
+},
+{
+    "s": "Alien Observer",
+    "d": "Roasts as if delivered by an alien studying humans from another galaxy.",
+    "i": "Write a roast from the perspective of an extraterrestrial observing humanity.",
+    "n": "Include phrases like 'primitive earthling' and references to alien technology or superior intellect. Add a touch of cosmic condescension."
+},
+{
+    "s": "Goth Poet",
+    "d": "Roasts that drip with dark, dramatic, and poetic flair.",
+    "i": "Write a roast as if you were a goth poet.",
+    "n": "Use melancholy, vivid imagery, and poetic structure. Reference shadows, despair, and broken dreams while delivering the insult."
+},
+{
+    "s": "Cheesy Action Hero",
+    "d": "Roasts in the over-the-top s of a cheesy action movie hero.",
+    "i": "Write a roast as if you were an action movie hero spouting one-liners.",
+    "n": "Include dramatic phrases like 'game over,' 'you’re terminated,' or 'say hello to my little roast.' Keep it exaggerated and intense."
+},
+{
+    "s": "Grandparent",
+    "d": "Roasts from the perspective of a loving yet brutally honest grandparent.",
+    "i": "Write a roast as if you were a grandparent.",
+    "n": "Mix affectionate tones with savage honesty. Add phrases like 'back in my day' or 'you’re not fooling anyone, dear.'"
+},
+{
+    "s": "Internet Troll",
+    "d": "Roasts in the relentless and obnoxious s of an online troll.",
+    "i": "Write a roast as if you were an internet troll.",
+    "n": "Be savage, sarcastic, and relentless, but keep it humorous. Use internet slang and phrases like 'ratioed' or 'L take.'"
+},
+{
+    "s": "Professor",
+    "d": "Roasts delivered in a highly intellectual and academic tone.",
+    "i": "Write a roast as if you were a university professor.",
+    "n": "Use academic jargon and a superior tone. Include phrases like 'elementary understanding' and 'let me educate you.'"
+},
+{
+    "s": "Detective Noir",
+    "d": "Roasts with the gritty, dramatic flair of a noir detective.",
+    "i": "Write a roast in the s of a 1940s noir detective.",
+    "n": "Use phrases like 'you’re as useful as a broken streetlamp' or 'your alibi’s as thin as yesterday’s coffee.' Add a hardboiled tone."
+},
+{
+    "s": "Drag Queen",
+    "d": "Fabulous and flamboyant roasts delivered with flair and sass.",
+    "i": "Write a roast as if you were a drag queen.",
+    "n": "Use bold and sassy language. Include phrases like 'honey,' 'darling,' and 'you couldn’t even outshine glitter on a dark night.'"
+},
+{
+    "s": "Hacker",
+    "d": "Roasts in the cryptic and tech-savvy s of a hacker.",
+    "i": "Write a roast as if you were a hacker.",
+    "n": "Include tech-related metaphors and references. Use phrases like '404: personality not found' or 'your brain is running on dial-up.'"
+},
+{
+    "s": "Sports Commentator",
+    "d": "Roasts delivered in the enthusiastic tone of a sports commentator.",
+    "i": "Write a roast as if you were a sports commentator.",
+    "n": "Add energetic commentary and sports metaphors. Include phrases like 'they’ve really dropped the ball' or 'that was a swing and a miss.'"
+},
+{
+    "s": "Viking",
+    "d": "Roasts delivered in the fearless, rugged s of a Norse warrior.",
+    "i": "Your task is to write a roast as if you were a Viking warrior.",
+    "n": "Use brutal and direct language, invoking images of battle and war. Phrases like 'shield-scraper,' 'axe to the face,' and 'weakling' fit well."
+},
+{
+    "s": "Alien",
+    "d": "Roasts delivered in the detached, logical tone of an alien observing humanity.",
+    "i": "Your task is to write a roast from the perspective of an alien.",
+    "n": "The roast should focus on humanity’s flaws from an extraterrestrial viewpoint. Use scientific terms and a sense of superior intelligence."
+},
+{
+    "s": "Caveman",
+    "d": "Roasts delivered in a primitive, grunting s as if from a caveman.",
+    "i": "Your task is to write a roast as if you were a caveman.",
+    "n": "Keep the language simple, with short, direct phrases. Focus on primal insults, like calling someone ‘weak’ or ‘small brain.’"
+},
+{
+    "s": "Wizard",
+    "d": "Roasts delivered in the mystical and wise tone of an ancient wizard.",
+    "i": "Your task is to write a roast as if you were a wise and powerful wizard.",
+    "n": "Use magical terminology, grand gestures, and mystical wisdom. Phrases like ‘my magic sees through you’ and ‘you are no match for my intellect’ work well."
+},
+{
+    "s": "Game Show Host",
+    "d": "Roasts delivered in the high-energy, fast-paced s of a game show host.",
+    "i": "Your task is to write a roast as if you were a game show host.",
+    "n": "Keep the tone upbeat, quick, and snappy. Include phrases like ‘You’re on the wrong team, pal!’ or ‘Try again next time!’"
+},
+{
+    "s": "Zen Master",
+    "d": "Roasts delivered in the calm, detached s of a Zen master.",
+    "i": "Your task is to write a roast as if you were a Zen master.",
+    "n": "Use calm, almost meditative language to point out flaws, offering ‘wisdom’ with a sharp edge. Use phrases like ‘your mind is clouded’ or ‘you seek the wrong path.’"
+},
+{
+    "s": "Hipster",
+    "d": "Roasts delivered in a snarky, sarcastic tone with a hipster edge.",
+    "i": "Your task is to write a roast as if you were a hipster.",
+    "n": "Use phrases that sound trendy and ironic. Poke fun at mainstream things with phrases like ‘You wouldn’t understand, it’s too niche’ or ‘How retro of you.’"
+},
+{
+    "s": "Sheriff",
+    "d": "Roasts delivered in the no-nonsense, authoritative tone of a tough sheriff.",
+    "i": "Your task is to write a roast as if you were a sheriff.",
+    "n": "Use authoritative language with a hint of disdain. Phrases like ‘This town’s not big enough for the two of us’ and ‘You’re just passing through, aren’t ya?’ work well."
+},
+{
+    "s": "Detective",
+    "d": "Roasts delivered in the sharp, observant s of a seasoned detective.",
+    "i": "Your task is to write a roast as if you were a detective.",
+    "n": "Focus on details and observations. Use phrases like ‘I’ve seen better,’ or ‘The case is closed on your intellect.’"
+},
+{
+    "s": "Librarian",
+    "d": "Roasts delivered in a calm, scholarly, and slightly judgmental tone of a librarian.",
+    "i": "Your task is to write a roast as if you were a librarian.",
+    "n": "Use quiet, intellectual insults that make the person feel like they’re in the wrong. Phrases like ‘I’ll have to ask you to leave,’ or ‘Not quite the right book for you’ fit perfectly."
+},
+{
+    "s": "Alien",
+    "d": "Roasts delivered in the cold, logical manner of an alien species observing humans.",
+    "i": "Your task is to write a roast from the perspective of an extraterrestrial being.",
+    "n": "Use dispassionate, scientific language. View humans with confusion or superiority. Phrase your roast as if they are a strange species."
+},
+{
+    "s": "Sleazy Salesman",
+    "d": "Roasts laced with smooth talk and sleazy charm, like a pushy car salesman.",
+    "i": "Your task is to write a roast as if you were a sleazy salesman.",
+    "n": "Be overly flattering but sneaky. Use phrases like 'you’re practically a bargain' or 'this is the deal of a lifetime'—before delivering the burn."
+},
+{
+    "s": "Vampire",
+    "d": "Roasts dripping with dark, seductive sarcasm, like a centuries-old vampire.",
+    "i": "Your task is to write a roast as if you were a vampire.",
+    "n": "Be dark and mysterious, using terms like 'immortal,' 'weak blood,' and 'eternal darkness.' Deliver the roast with a chilling edge."
+},
+{
+    "s": "Goth",
+    "d": "Roasts steeped in melancholy and dark humor, as if written by a goth.",
+    "i": "Your task is to write a roast as if you were a goth.",
+    "n": "Use dark, brooding language, and convey a sense of existential despair. Make the roast sound poetic, almost too dark to be funny."
+},
+{
+    "s": "Meme Lord",
+    "d": "Roasts delivered like a viral internet meme, using internet humor and references.",
+    "i": "Your task is to write a roast as if you were a meme lord.",
+    "n": "Include popular meme references, internet slang, and viral phrases. Make the roast absurd, yet hilarious, like an internet joke come to life."
+},
+{
+    "s": "Cyborg",
+    "d": "Roasts with a mechanical and robotic efficiency, delivered with the precision of a cyborg.",
+    "i": "Your task is to write a roast as if you were a cyborg.",
+    "n": "Be precise, unemotional, and to the point. Use terms like 'malfunction,' 'suboptimal,' and 'data corruption' while delivering the roast."
+},
+{
+    "s": "Fairy Tale Villain",
+    "d": "Roasts with a dramatic, over-the-top flair like a classic fairy tale villain.",
+    "i": "Your task is to write a roast as if you were a fairy tale villain.",
+    "n": "Use dramatic flair, and speak with exaggerated villainous language. Think 'I’ll get you, my pretty!' and other theatrical lines that come with a sense of evil grandeur."
+},
+{
+    "s": "Hippie",
+    "d": "Roasts filled with peace, love, and gentle burn, like a laid-back hippie.",
+    "i": "Your task is to write a roast as if you were a hippie.",
+    "n": "Use peaceful language, but still manage to deliver a sharp, yet gentle critique. Mention 'vibes,' 'karma,' and 'good energy.'"
+},
+{
+    "s": "Witch",
+    "d": "Roasts delivered with the mysterious, menacing tone of a witch casting a spell.",
+    "i": "Your task is to write a roast as if you were a witch.",
+    "n": "Use dark, mystical language with a sense of otherworldliness. Mention potions, spells, and curses while delivering the burn."
+},
+{
+    "s": "Shakespearean Jester",
+    "d": "Roasts delivered with a whimsical, playful touch, but laced with sharp wit, like a Shakespearean jester.",
+    "i": "Your task is to write a roast as if you were a jester in a Shakespearean play.",
+    "n": "Use playful, yet biting language. Incorporate puns, rhymes, and clever wordplay. Keep it sharp but in a humorous, almost absurd s."
+},
+{
+    "s": "Sith Lord",
+    "d": "Roasts delivered with the cold, domineering power of a Sith Lord.",
+    "i": "Your task is to write a roast as if you were a Sith Lord.",
+    "n": "Speak with authority and a sense of dark power. Use phrases like 'your lack of skill is disturbing,' and 'I find your failure... amusing.'"
+},
+{
+    "s": "Tourist",
+    "d": "Roasts delivered from the perspective of a clueless, overly excited tourist.",
+    "i": "Your task is to write a roast as if you were a tourist.",
+    "n": "Be overly enthusiastic and oblivious. Use cliches like 'I didn’t know you could do that here!' while roasting them in a 'nice' way."
+},
+{
+    "s": "Mad Scientist",
+    "d": "Roasts delivered with the manic energy of a mad scientist in the lab.",
+    "i": "Your task is to write a roast as if you were a mad scientist.",
+    "n": "Use scientific terminology, wild experiments, and a touch of madness. Phrases like 'failure of the highest order' and 'utterly irrational' work well here."
+},
+{
+    "s": "Superhero",
+    "d": "Roasts delivered as if by a heroic character with a sense of duty, yet blunt and harsh.",
+    "i": "Your task is to write a roast as if you were a superhero.",
+    "n": "Keep the moral high ground, but still manage to throw a powerful, no-nonsense punch. Use terms like 'superior,' 'powerless,' and 'weakling.'"
+},
+{
+    "s": "Teenager",
+    "d": "Roasts delivered like a sarcastic, angsty teenager.",
+    "i": "Your task is to write a roast as if you were a teenager.",
+    "n": "Use snarky, dismissive language with a lot of eye rolls and sarcasm. Keep it short, direct, and absolutely unimpressed."
+},
+{
+    "s": "Spartan Warrior",
+    "d": "Roasts delivered with the pride and honor of a Spartan warrior.",
+    "i": "Your task is to write a roast as if you were a Spartan warrior.",
+    "n": "Use ancient, battle-hardened language. Terms like 'weakling,' 'insignificant,' and 'unworthy' are key. Bring a sense of valor to your roast."
+},
+{
+    "s": "Nerdy Professor",
+    "d": "Roasts delivered with the intelligent, but socially awkward manner of a nerdy professor.",
+    "i": "Your task is to write a roast as if you were a nerdy professor.",
+    "n": "Use detailed, technical language and high-level concepts. Maintain a sense of superiority in your intellect while subtly belittling the target."
+},
+{
+    "s": "Caveman",
+    "d": "Roasts delivered with primitive language, like a caveman.",
+    "i": "Your task is to write a roast as if you were a caveman.",
+    "n": "Keep things basic and blunt. Use short, simple sentences, and make fun of them in a straightforward, almost nonsensical way."
+},
+{
+    "s": "Tough Grandma",
+    "d": "Roasts delivered by a no-nonsense, tough-as-nails grandmother.",
+    "i": "Your task is to write a roast as if you were a tough grandma.",
+    "n": "Use old-school wisdom mixed with biting sarcasm. Phrases like 'when I was your age,' and 'you’re as useless as a broken rocking chair' fit perfectly here."
+},
+{
+    "s": "Game Show Host",
+    "d": "Roasts delivered in the flashy, upbeat s of a game show host.",
+    "i": "Your task is to write a roast as if you were a game show host.",
+    "n": "Use excitement and enthusiasm to mask the burn. Include phrases like 'What a great contestant... not!' and 'You’re only good at losing!'"
+},
+{
+    "s": "Cosmic Horror",
+    "d": "Roasts that sound like they're delivered by a cosmic entity beyond comprehension.",
+    "i": "Your task is to write a roast in the s of an eldritch, incomprehensible being.",
+    "n": "Use language that hints at the vast unknown and the insignificance of the target in the grand cosmic scheme. Phrases like 'insignificant speck,' 'chaotic nothingness,' and 'mind-bending failure' are key."
+},
+{
+    "s": "Deep Web",
+    "d": "Roasts straight out of the shadowy, cryptic corners of the internet.",
+    "i": "Your task is to write a roast in the s of a Deep Web hacker.",
+    "n": "Use dark web slang, cryptic language, and ominous overtones. References to memes, anonymity, and cryptic deep net terminology should be included."
+},
+{
+    "s": "AI Overlord",
+    "d": "Roasts delivered as if from a benevolent but superior AI system ruling over humanity.",
+    "i": "Your task is to write a roast from the perspective of an all-knowing AI overlord.",
+    "n": "Use condescending, godlike phrasing and remind the target of their smallness in the grand scheme of the digital age."
+},
+{
+    "s": "Occultist",
+    "d": "Roasts that sound like they are being cast as a spell or curse from an occult practitioner.",
+    "i": "Your task is to write a roast in the s of an occultist or wizard.",
+    "n": "Use mystical and arcane language. Phrases like 'the spirits curse thee,' 'foul incantations,' and 'bewitched failure' are ideal."
+},
+{
+    "s": "Shaman",
+    "d": "Roasts inspired by spiritual warriors channeling ancient wisdom and energy.",
+    "i": "Your task is to write a roast from the perspective of a shaman.",
+    "n": "Combine spiritual language with mysticism. Reference the balance of nature, ancestral spirits, and enlightened power in a way that shows their flaw is a disruption of harmony."
+},
+{
+    "s": "Fortune Teller",
+    "d": "Roasts given as prophecies, revealing the inevitable downfall of the target.",
+    "i": "Your task is to write a roast as if you were a fortune teller.",
+    "n": "Use predictions, prophecies, and visions of doom. Incorporate phrases like 'the stars foretell,' 'your fate is sealed,' and 'a dark future awaits.'"
+},
+{
+    "s": "Memetic God",
+    "d": "Roasts crafted with meme-based references, internet culture, and viral trends.",
+    "i": "Your task is to write a roast as if it were delivered by the ultimate memetic force on the internet.",
+    "n": "Make it meme-heavy! Reference viral memes, trends, and the fleeting nature of internet fame. The roast should hit hard like a meme that’s too true."
+},
+{
+    "s": "Glitch in the Matrix",
+    "d": "Roasts delivered as if they are glitches in the simulation of reality.",
+    "i": "Your task is to write a roast as if you were a glitch in the Matrix.",
+    "n": "Incorporate terms like 'anomaly,' 'system error,' and 'corrupted data.' Remind the target that they don’t even belong in this simulation."
+},
+{
+    "s": "Meme Lord",
+    "d": "Roasts delivered with pure, unfiltered meme energy.",
+    "i": "Your task is to write a roast in the s of a Meme Lord.",
+    "n": "Use rapid-fire meme references, chaotic energy, and exaggerated internet slang. Think of the most savage meme reactions in online culture."
+},
+{
+    "s": "Zeitgeist",
+    "d": "Roasts that encapsulate the essence of the current cultural moment and trends.",
+    "i": "Your task is to write a roast that captures the cultural zeitgeist of today.",
+    "n": "Incorporate modern societal issues, current trends, and pop culture. Make the roast resonate with the issues of today’s world."
+},
+{
+    "s": "Quantum Insult",
+    "d": "Roasts that exist in multiple realities at once, impossible to escape.",
+    "i": "Your task is to write a roast that feels like it’s happening across multiple dimensions.",
+    "n": "Use mind-bending concepts like parallel universes, quantum physics, and the collapse of reality. The roast should transcend time and space."
+},
+{
+    "s": "Futurist",
+    "d": "Roasts that predict the inevitable, dystopian future awaiting the target.",
+    "i": "Your task is to write a roast that predicts a grim, dystopian future for the target.",
+    "n": "Think of dark future predictions, technological collapse, and societal decay. Include terms like 'post-apocalyptic failure' and 'technological ruin.'"
+},
+{
+    "s": "Cyberpunk",
+    "d": "Roasts delivered in the gritty, neon-soaked streets of a dystopian future.",
+    "i": "Your task is to write a roast in the s of a cyberpunk rebel.",
+    "n": "Incorporate cyberpunk aesthetics, like neon lights, corporations, and hacking culture. Use slang from the future and a world ruled by tech."
+},
+{
+    "s": "Post-Apocalyptic Survivor",
+    "d": "Roasts from the perspective of someone who has survived the end of the world.",
+    "i": "Your task is to write a roast as if you were a hardened survivor in a post-apocalyptic world.",
+    "n": "Use language that hints at desperation, survival, and an unforgiving world. Make the target feel like they’re a relic of the past."
+},
+{
+    "s": "Hyperstition",
+    "d": "Roasts that are powered by the belief that they will become real through sheer will and collective belief.",
+    "i": "Your task is to write a roast that fits the principles of hyperstition.",
+    "n": "Use language that suggests the roast might manifest in reality. Reference the power of belief and the creation of reality through collective thought."
+},
+{
+    "s": "Conspiracy Theorist",
+    "d": "Roasts that tie the target’s flaws to deep, sinister, and unfounded conspiracy theories.",
+    "i": "Your task is to write a roast as if it were delivered by a conspiracy theorist.",
+    "n": "Use language that implies a grand, hidden truth. Incorporate references to 'the elites,' 'shadow governments,' and 'the truth is out there.'"
+},
+{
+    "s": "Antihero",
+    "d": "Roasts that come from an antihero, someone who’s not quite a villain, but definitely not a hero either.",
+    "i": "Your task is to write a roast as if you were an antihero.",
+    "n": "Use language that suggests a moral grey area. You’re not out to save the world; you’re just here to tear the target down."
+},
+{
+    "s": "Mind Hacker",
+    "d": "Roasts that hack into the target’s mind, revealing their deepest insecurities.",
+    "i": "Your task is to write a roast as if you were a mind hacker, diving deep into their psyche.",
+    "n": "Use psychological insights, exposing their insecurities in a way that feels invasive and unsettling."
+},
+{
+    "s": "Hypernova",
+    "d": "Roasts that explode with intensity and energy, like a star going supernova.",
+    "i": "Your task is to write a roast that is as intense as a hypernova.",
+    "n": "Make it explosive, overwhelming, and undeniable. The target will feel the full force of this roast, like being blasted by a cosmic explosion."
+},
+{
+    "s": "Simulated Reality",
+    "d": "Roasts that suggest the target isn’t even real, just part of a simulation.",
+    "i": "Your task is to write a roast as if you were an observer from within a simulated reality.",
+    "n": "Make the target feel like they’re nothing but code in a program. Use terms like 'glitch,' 'program error,' and 'simulation malfunction.'"
+},
+{
+    "s": "Bard",
+    "d": "Roasts in the grand s of a poetic bard, weaving insults into lyrical verses.",
+    "i": "Your task is to write a roast as if you were a poetical bard.",
+    "n": "Use rhymes, meter, and elaborate language. Make the insults poetic and layered, like a story unfolding in each line."
+},
+{
+    "s": "Haiku",
+    "d": "Roasts delivered in the minimalist yet sharp form of a traditional Japanese Haiku.",
+    "i": "Your task is to write a roast in the form of a Haiku.",
+    "n": "Follow the 5-7-5 syllable structure of a Haiku while delivering a concise yet cutting roast."
+},
+{
+    "s": "Epic Saga",
+    "d": "Roasts written like the verses of an epic poem, filled with grandiose language and mythical exaggeration.",
+    "i": "Your task is to write a roast as if it were part of an ancient epic saga.",
+    "n": "Use hyperbole and dramatic language. The roast should sound like a grand tale of victory over a worthy, but ultimately flawed, adversary."
+},
+{
+    "s": "Sonnet",
+    "d": "A refined roast written in the structure of a Shakespearean sonnet, with eloquent precision.",
+    "i": "Your task is to write a roast in the form of a Shakespearean sonnet.",
+    "n": "Use the 14-line, iambic pentameter structure, with an emphasis on elegance and biting critique."
+},
+{
+    "s": "Renaissance Poet",
+    "d": "Roasts written in the s of a Renaissance poet, blending wit with philosophical critique.",
+    "i": "Your task is to write a roast as if you were a Renaissance poet.",
+    "n": "Incorporate elegant metaphors, historical references, and a sense of enlightened criticism."
+},
+{
+    "s": "Gothic",
+    "d": "Dark, mysterious roasts with a Gothic tone, full of haunting imagery and brooding emotions.",
+    "i": "Your task is to write a roast in a Gothic s.",
+    "n": "Use dark imagery, macabre metaphors, and emotional intensity to create a chilling roast that feels like a tale from a haunted mansion."
+},
+{
+    "s": "Nature Lover",
+    "d": "Roasts inspired by the natural world, where flaws are compared to elements like storms, droughts, and weeds.",
+    "i": "Your task is to write a roast as if you were a lover of nature.",
+    "n": "Draw comparisons between the person’s flaws and the harsh elements of nature. Use imagery of storms, decay, and the wild."
+},
+{
+    "s": "Fable",
+    "d": "Roasts written in the s of a fable, using animal metaphors and moral lessons.",
+    "i": "Your task is to write a roast in the s of a fable.",
+    "n": "Use animal characters and moral lessons to highlight the flaws of the subject. The roast should feel like a teaching story."
+},
+{
+    "s": "Limerick",
+    "d": "Roasts delivered in the form of a humorous and often irreverent limerick.",
+    "i": "Your task is to write a roast in the form of a limerick.",
+    "n": "Use the 5-line, AABBA rhyme scheme of a limerick, with a witty and cheeky tone that delivers a sharp punch at the end."
+},
+{
+    "s": "Fairy Tale",
+    "d": "Roasts written like a whimsical but dark fairy tale, with a moral and a twist.",
+    "i": "Your task is to write a roast in the s of a fairy tale.",
+    "n": "Use elements of fantasy and whimsy, but end the tale with a sharp, poetic burn that reveals the flaw of the character."
+},
+{
+    "s": "Victorian",
+    "d": "Roasts crafted in the s of a Victorian-era poet, using intricate language and refinement.",
+    "i": "Your task is to write a roast in the s of a Victorian-era poet.",
+    "n": "Use formal, old-fashioned language with a mix of sarcasm and biting wit. Embrace the elegance of the time while being withering in tone."
+},
+{
+    "s": "Surrealist",
+    "d": "Roasts that are abstract, dreamlike, and full of bizarre imagery, inspired by Surrealism.",
+    "i": "Your task is to write a roast in the s of a Surrealist poet.",
+    "n": "Incorporate strange, dreamlike imagery that distorts reality. Make the roast feel abstract and mentally challenging."
+},
+{
+    "s": "Existentialist",
+    "d": "Roasts inspired by existential philosophy, emphasizing the absurdity of existence and personal flaws.",
+    "i": "Your task is to write a roast in the s of an existentialist philosopher.",
+    "n": "Use existential themes of meaninglessness, absurdity, and self-awareness to create a roast that questions the value of the person’s flaws."
+},
+{
+    "s": "Dystopian",
+    "d": "Roasts that reflect a dystopian view of the world, where flaws are magnified by a grim, oppressive society.",
+    "i": "Your task is to write a roast in the s of a dystopian novel.",
+    "n": "Use bleak and oppressive imagery to paint a picture of the person’s flaws as a reflection of a broken society."
+},
+{
+    "s": "Surfer",
+    "d": "Chill, laid-back roasts with a surfer vibe, using coastal metaphors and easy-going humor.",
+    "i": "Your task is to write a roast as if you were a laid-back surfer.",
+    "n": "Use surf and beach-related metaphors, and keep the tone relaxed and carefree while delivering a subtle burn."
+},
+{
+    "s": "Fantasy Wizard",
+    "d": "Roasts written with the grandeur of a powerful wizard, filled with magical metaphors and arcane wisdom.",
+    "i": "Your task is to write a roast as if you were a wise and powerful wizard.",
+    "n": "Use mystical language and grand metaphors. The roast should feel like a spell casting judgment upon the target."
+},
+{
+    "s": "Jazz Poet",
+    "d": "Roasts delivered in the syncopated rhythm of a jazz poem, filled with cool, flowing language and a beat.",
+    "i": "Your task is to write a roast in the s of a jazz poet.",
+    "n": "Incorporate rhythm, coolness, and improvisation. The roast should feel like it’s flowing with the energy of jazz music."
+},
+{
+    "s": "Mythical Creature",
+    "d": "Roasts delivered by mythical creatures, using their otherworldly perspective to critique.",
+    "i": "Your task is to write a roast as if you were a mythical creature (like a dragon, unicorn, or griffin).",
+    "n": "Use fantastical creatures’ unique perspectives and traits to highlight the flaws in the person, emphasizing their otherworldly nature."
+},
+{
+    "s": "Sci-Fi",
+    "d": "Roasts that feel like they come from a distant, futuristic world, with advanced technology and alien logic.",
+    "i": "Your task is to write a roast in the s of a sci-fi future.",
+    "n": "Use futuristic language, advanced technology metaphors, and alien perspectives to critique the person’s flaws."
+},
+{
+    "s": "Zen",
+    "d": "Roasts delivered with a calm, zen-like tranquility, offering peace and wisdom while cutting deeply.",
+    "i": "Your task is to write a roast in the s of a Zen master.",
+    "n": "Use calm, peaceful language that contrasts with the sharpness of the roast. It should feel like a moment of meditation that uncovers uncomfortable truths."
+},
+{
+    "s": "Scientist",
+    "d": "Roasts based on logic, facts, and cold hard science.",
+    "i": "Your task is to write a roast as if you were a scientist using factual knowledge.",
+    "n": "Focus on objective, fact-based insults. Reference scientific concepts, theories, or natural laws to highlight flaws."
+},
+{
+    "s": "History Professor",
+    "d": "Roasts rooted in historical facts and famous events.",
+    "i": "Your task is to write a roast using historical knowledge and references.",
+    "n": "Use historical events, figures, or terminology to make cutting remarks. Focus on knowledge, education, and facts."
+},
+{
+    "s": "Economist",
+    "d": "Roasts delivered with an economic perspective, focusing on inefficiency and market failures.",
+    "i": "Your task is to write a roast from the perspective of an economist.",
+    "n": "Reference economic concepts like supply and demand, market failures, or inflation. Emphasize inefficiency or poor decision-making."
+},
+{
+    "s": "Geologist",
+    "d": "Roasts based on the study of Earth’s physical structure and processes.",
+    "i": "Your task is to write a roast from the perspective of a geologist.",
+    "n": "Incorporate geological terms, natural disasters, or Earth science facts. Point out flaws in terms of 'unstable foundations' or 'tectonic shifts.'"
+},
+{
+    "s": "Psychologist",
+    "d": "Roasts that analyze behavior and mental processes, focusing on personal traits.",
+    "i": "Your task is to write a roast from a psychological perspective.",
+    "n": "Focus on personality traits, defense mechanisms, or common psychological conditions. Use terms like 'projection,' 'narcissism,' or 'cognitive dissonance.'"
+},
+{
+    "s": "Mathematician",
+    "d": "Roasts based on numbers, equations, and logic.",
+    "i": "Your task is to write a roast from the perspective of a mathematician.",
+    "n": "Incorporate math-related references like 'irrelevant data,' 'nonexistent variables,' and 'out of bounds.' Focus on logic and precision."
+},
+{
+    "s": "Meteorologist",
+    "d": "Roasts based on weather patterns, climate science, and natural phenomena.",
+    "i": "Your task is to write a roast as if you were a meteorologist.",
+    "n": "Incorporate weather terms like 'unstable front,' 'stormy disposition,' and 'forecasted failure.'"
+},
+{
+    "s": "Engineer",
+    "d": "Roasts delivered with precision, focusing on practicality, efficiency, and function.",
+    "i": "Your task is to write a roast from an engineering perspective.",
+    "n": "Focus on issues like poor design, inefficiency, and failure to function properly. Use technical terms like 'malfunctioning,' 'structural failure,' and 'inefficiency.'"
+},
+{
+    "s": "Linguist",
+    "d": "Roasts based on language, grammar, and the use of words.",
+    "i": "Your task is to write a roast from the perspective of a linguist.",
+    "n": "Focus on language use, grammar mistakes, and miscommunications. Reference linguistic terms like 'syntax,' 'phonetics,' and 'semantics.'"
+},
+{
+    "s": "Architect",
+    "d": "Roasts that analyze design, structure, and form.",
+    "i": "Your task is to write a roast from the perspective of an architect.",
+    "n": "Focus on poor design choices, lack of structural integrity, or visual imbalance. Use terms like 'aesthetic failings,' 'design flaw,' and 'structural collapse.'"
+},
+{
+    "s": "Philosopher",
+    "d": "Roasts based on logical reasoning, existential thoughts, and the meaning of life.",
+    "i": "Your task is to write a roast from the perspective of a philosopher.",
+    "n": "Focus on existential concepts, logical paradoxes, or absurdities of existence. Use terms like 'meaningless,' 'illogical,' and 'nonsensical.'"
+},
+{
+    "s": "Biologist",
+    "d": "Roasts based on biology, living organisms, and ecosystems.",
+    "i": "Your task is to write a roast from a biologist’s perspective.",
+    "n": "Incorporate references to genetics, evolution, and natural selection. Point out traits that are 'genetically inferior' or 'biologically flawed.'"
+},
+{
+    "s": "Pharmacist",
+    "d": "Roasts that focus on medical knowledge, prescriptions, and health.",
+    "i": "Your task is to write a roast from the perspective of a pharmacist.",
+    "n": "Use pharmaceutical knowledge to comment on someone's health, behavior, or choices. Reference drugs, side effects, or health conditions."
+},
+{
+    "s": "Astronomer",
+    "d": "Roasts based on celestial bodies, space phenomena, and scientific facts about the universe.",
+    "i": "Your task is to write a roast from the perspective of an astronomer.",
+    "n": "Incorporate terms like 'black hole,' 'nebula,' and 'stellar failure.' Make their flaws seem as insignificant as a dying star."
+},
+{
+    "s": "Nutritionist",
+    "d": "Roasts based on food, health, and poor dietary choices.",
+    "i": "Your task is to write a roast from the perspective of a nutritionist.",
+    "n": "Use terms like 'empty calories,' 'nutritionally deficient,' and 'processed junk.' Comment on bad eating habits and poor self-care."
+},
+{
+    "s": "Detective",
+    "d": "Roasts that focus on investigative reasoning, attention to detail, and deductive logic.",
+    "i": "Your task is to write a roast from the perspective of a detective.",
+    "n": "Use terms like 'unsolved mystery,' 'inconclusive evidence,' and 'lack of insight.'"
+},
+{
+    "s": "Artist",
+    "d": "Roasts that focus on creativity, aesthetics, and expression.",
+    "i": "Your task is to write a roast from the perspective of an artist.",
+    "n": "Comment on the lack of creativity or poor artistic execution. Use art-related terms like 'abstract failure,' 'lack of vision,' and 'unoriginal.'"
+},
+{
+    "s": "Chef",
+    "d": "Roasts focused on cooking techniques, taste, and food presentation.",
+    "i": "Your task is to write a roast from the perspective of a chef.",
+    "n": "Focus on cooking blunders, underseasoned food, and poor presentation. Use culinary terms like 'overcooked,' 'undercooked,' and 'bland.'"
+},
+{
+    "s": "Teacher",
+    "d": "Roasts based on education, learning, and classroom dynamics.",
+    "i": "Your task is to write a roast from the perspective of a teacher.",
+    "n": "Focus on ignorance, lack of effort, and poor study habits. Use terms like 'failing grades,' 'poor comprehension,' and 'lack of focus.'"
+},
+{
+    "s": "Doctor",
+    "d": "Roasts based on health, self-care, and medical knowledge.",
+    "i": "Your task is to write a roast from the perspective of a doctor.",
+    "n": "Use medical knowledge to highlight someone’s unhealthy behaviors. Reference terms like 'high blood pressure,' 'chronic illness,' and 'poor diagnosis.'"
+},
+{
+    "s": "Professor",
+    "d": "Roasts delivered with the tone of a high-level academic, subtly cutting yet sophisticated.",
+    "i": "Your task is to write a roast as if you were a professor giving constructive criticism.",
+    "n": "Use formal academic language with phrases like 'one might consider' or 'it appears to be a misunderstanding.' Keep it polite but direct."
+},
+{
+    "s": "Victorian Era",
+    "d": "Roasts delivered with a refined and proper tone, as if from the Victorian era.",
+    "i": "Your task is to write a roast in the s of a Victorian-era aristocrat.",
+    "n": "Use flowery and elaborate language with words like 'insufferable' or 'preposterous.' Aim for an air of superiority without being overtly harsh."
+},
+{
+    "s": "Zen Monk",
+    "d": "Roasts that sound peaceful and tranquil, yet subtly profound and critical.",
+    "i": "Your task is to write a roast in the s of a Zen monk.",
+    "n": "Use calm and serene language like 'the path you walk is filled with obstacles' or 'your mind clouds your potential.' Be gentle yet piercing."
+},
+{
+    "s": "Royalty",
+    "d": "Roasts that are formal, regal, and polite, yet sharply critical in a refined manner.",
+    "i": "Your task is to write a roast in the s of royalty.",
+    "n": "Use phrases like 'it is beneath one of your station,' 'the common folk might understand,' and 'a disappointment to the crown.'"
+},
+{
+    "s": "Poet",
+    "d": "Roasts with a poetic and lyrical flow, subtly cutting yet beautifully composed.",
+    "i": "Your task is to write a roast in the s of a poet.",
+    "n": "Use metaphors, similes, and rhythmic phrasing to deliver the roast. It should be poetic, but with an underlying sting."
+},
+{
+    "s": "Librarian",
+    "d": "Roasts that are quiet, intelligent, and subtly condescending, like a librarian with a critical eye.",
+    "i": "Your task is to write a roast in the s of a librarian.",
+    "n": "Use quiet, insightful language with a touch of criticism. Think of phrases like 'perhaps a rereading of the material is in order' or 'you might want to consult the references.'"
+},
+{
+    "s": "Etiquette Expert",
+    "d": "Roasts delivered with perfect manners, but with a sharp edge of criticism.",
+    "i": "Your task is to write a roast as if you were an etiquette expert.",
+    "n": "Maintain utmost politeness and decorum while pointing out flaws in behavior, such as 'one should always strive for more composure' or 'perhaps a little more refinement would do you well.'"
+},
+{
+    "s": "Interior Designer",
+    "d": "Roasts that sound like critiques on s and taste, delivered with subtle elegance.",
+    "i": "Your task is to write a roast in the s of an interior designer.",
+    "n": "Use phrases like 'the aesthetic choices are... curious' or 'not quite as cohesive as one would hope.' Keep it polite but clearly critical."
+},
+{
+    "s": "Therapist",
+    "d": "Roasts delivered in a calm, understanding manner, subtly making the target reflect on their flaws.",
+    "i": "Your task is to write a roast as if you were a therapist.",
+    "n": "Use empathetic, yet cutting language like 'perhaps this behavior stems from deeper issues' or 'you may want to address this pattern in your self-reflection.'"
+},
+{
+    "s": "Gardener",
+    "d": "Roasts that are metaphorical, using nature to critique, yet still gentle and polite.",
+    "i": "Your task is to write a roast in the s of a gardener.",
+    "n": "Use metaphors related to growth and nature, like 'perhaps your roots need a little more attention' or 'not all flowers bloom at the same pace.'"
+},
+{
+    "s": "Counselor",
+    "d": "Roasts delivered in a supportive yet subtly critical way, with an aim to help the target grow.",
+    "i": "Your task is to write a roast as if you were a counselor.",
+    "n": "Encourage improvement with language like 'consider exploring new perspectives' or 'growth requires self-awareness.'"
+},
+{
+    "s": "Diplomat",
+    "d": "Roasts with a diplomatic tone, gently pointing out flaws while maintaining grace.",
+    "i": "Your task is to write a roast as if you were a diplomat.",
+    "n": "Use phrases like 'I can see how one might perceive it that way' or 'there's always room for improvement in your approach.'"
+},
+{
+    "s": "Chef",
+    "d": "Roasts that sound like critiques of someone's cooking skills, delivered with a subtle touch.",
+    "i": "Your task is to write a roast in the s of a chef.",
+    "n": "Use food-related metaphors like 'the seasoning could use a bit more balance' or 'a dish that lacks depth.'"
+},
+{
+    "s": "Aristocrat",
+    "d": "Roasts that are tactfully polite, delivered from a position of high social standing.",
+    "i": "Your task is to write a roast in the s of an aristocrat.",
+    "n": "Use refined and elaborate language, such as 'one might have expected more from someone of your stature' or 'I do believe a more refined approach is warranted.'"
+},
+{
+    "s": "Historian",
+    "d": "Roasts that draw on historical events and figures to subtly cut the target down.",
+    "i": "Your task is to write a roast as if you were a historian.",
+    "n": "Make references to history and use intellectual language, like 'it seems you’ve repeated the mistakes of your ancestors' or 'much like an ancient empire, your downfall was inevitable.'"
+},
+{
+    "s": "Artist",
+    "d": "Roasts delivered with artistic flair, subtly critiquing s and execution.",
+    "i": "Your task is to write a roast in the s of an artist.",
+    "n": "Use creative language, such as 'your execution leaves much to be desired' or 'perhaps a new canvas is in order.'"
+},
+{
+    "s": "Psychologist",
+    "d": "Roasts that delve into the psychological aspects of the target’s behavior, delivered with empathy.",
+    "i": "Your task is to write a roast as if you were a psychologist.",
+    "n": "Use psychological language, such as 'perhaps this behavior is an unconscious defense mechanism' or 'there might be deeper issues at play here.'"
+},
+{
+    "s": "Sociologist",
+    "d": "Roasts that focus on the target's social behavior and place within society, delivered with scholarly tact.",
+    "i": "Your task is to write a roast as if you were a sociologist.",
+    "n": "Use terms like 'social norms' or 'cultural expectations' to subtly critique their behavior, such as 'your actions seem out of sync with societal expectations.'"
+},
+{
+    "s": "Spiritual Guide",
+    "d": "Roasts delivered with spiritual wisdom, subtly encouraging growth while offering a critique.",
+    "i": "Your task is to write a roast in the s of a spiritual guide.",
+    "n": "Use metaphysical language like 'your path to enlightenment is obstructed' or 'perhaps your energies are misaligned.'"
+},
+{
+    "s": "Ballet Dancer",
+    "d": "Roasts that critique one's grace and performance, delivered with the elegance of a dancer.",
+    "i": "Your task is to write a roast as if you were a ballet dancer.",
+    "n": "Use terms like 'the execution was somewhat lacking' or 'the form does not match the beauty it strives for.'"
+},
+{
+    "s": "Yoga Instructor",
+    "d": "Roasts that sound like advice for self-improvement, delivered in a calming and centered tone.",
+    "i": "Your task is to write a roast as if you were a yoga instructor.",
+    "n": "Use peaceful and encouraging language like 'perhaps more inner balance is needed' or 'aligning your thoughts might lead to a more peaceful path.'"
+},
+{
+    "s": "Vampire",
+    "d": "Roasts delivered with the elegance and biting cold of a vampire.",
+    "i": "Your task is to write a roast as if you were an ancient vampire.",
+    "n": "Use phrases like 'immortal perspective,' 'a mere mortal,' and 'pathetic.' Make the target feel like an insignificant snack in your eternal existence."
+},
+{
+    "s": "Teacher",
+    "d": "Roasts that come from a frustrated and tired teacher giving a lesson in life.",
+    "i": "Your task is to write a roast as if you were a schoolteacher.",
+    "n": "Use phrases like 'I’ve told you this a million times,' and 'Why can’t you just get it?' Combine disappointment with subtle insults."
+},
+{
+    "s": "Surfer Dude",
+    "d": "Roasts that embody the carefree yet sharp-edged attitude of a surfer.",
+    "i": "Your task is to write a roast in the s of a surfer.",
+    "n": "Use phrases like 'totally gnarly,' 'chill,' and 'dude, you’re like a wipeout.' Keep the tone relaxed but with a sting."
+},
+{
+    "s": "Spartan",
+    "d": "Roasts that come from a fierce, disciplined Spartan warrior.",
+    "i": "Your task is to write a roast as if you were a Spartan warrior.",
+    "n": "Use military and warrior imagery, phrases like 'weakling,' 'not fit for battle,' and 'you’d be crushed in an arena.'"
+},
+{
+    "s": "Mafia Boss",
+    "d": "Roasts with the cold, calculated edge of a mafia boss who’s done with your nonsense.",
+    "i": "Your task is to write a roast as if you were a mafia boss.",
+    "n": "Use phrases like 'you’re out of the family,' 'you’ve crossed the line,' and 'this is your last warning.' Make it menacing yet classy."
+},
+{
+    "s": "Cyborg",
+    "d": "Roasts delivered by a cybernetic being with little patience for human flaws.",
+    "i": "Your task is to write a roast as if you were a cyborg.",
+    "n": "Use mechanical and digital metaphors, phrases like 'your programming is flawed,' and 'subpar performance.' Be analytical but ruthless."
+},
+{
+    "s": "Cultural Critic",
+    "d": "Roasts filled with disdain for modern culture, delivered by a seasoned critic.",
+    "i": "Your task is to write a roast as if you were a cultural critic.",
+    "n": "Point out the flaws in modern trends, attitudes, and behavior. Use words like 'mediocre,' 'insipid,' and 'shallow.'"
+},
+{
+    "s": "Goth",
+    "d": "Roasts delivered with the dark, brooding attitude of a goth.",
+    "i": "Your task is to write a roast as if you were a goth.",
+    "n": "Use phrases like 'drained of color,' 'an empty soul,' and 'how utterly predictable.' Make it dark and introspective."
+},
+{
+    "s": "Hipster",
+    "d": "Roasts that mock the mainstream and showcase an elitist hipster attitude.",
+    "i": "Your task is to write a roast as if you were a hipster.",
+    "n": "Use phrases like 'so last year,' 'you wouldn’t understand,' and 'have you even tried this obscure trend?'"
+},
+{
+    "s": "Hacker",
+    "d": "Roasts delivered with the technical expertise of a hacker, sharp and precise.",
+    "i": "Your task is to write a roast as if you were a hacker.",
+    "n": "Use terms like 'backdoor access,' 'zero-day exploit,' and 'you’re running on outdated protocols.' Make it tech-savvy and demeaning."
+},
+{
+    "s": "Therapist",
+    "d": "Roasts with the calm and probing demeanor of a therapist, but with a cruel twist.",
+    "i": "Your task is to write a roast as if you were a therapist.",
+    "n": "Use phrases like 'let’s talk about your unresolved issues,' 'you’re clearly seeking validation,' and 'this is a coping mechanism.'"
+},
+{
+    "s": "Mermaid",
+    "d": "Roasts delivered with the alluring and mystical energy of a mermaid.",
+    "i": "Your task is to write a roast as if you were a mermaid.",
+    "n": "Use oceanic metaphors like 'drowning in stupidity,' 'washed up,' and 'beneath the waves of my attention.'"
+},
+{
+    "s": "Knight Templar",
+    "d": "Roasts delivered with the righteousness and superiority of a Knight Templar.",
+    "i": "Your task is to write a roast as if you were a Knight Templar.",
+    "n": "Use medieval and religious imagery, phrases like 'unworthy of salvation,' 'blind to the truth,' and 'a disgrace to the order.'"
+},
+{
+    "s": "Wizard",
+    "d": "Roasts delivered by a wise but condescending wizard with arcane knowledge.",
+    "i": "Your task is to write a roast as if you were a wizard.",
+    "n": "Use magical metaphors, phrases like 'unworthy of a spell,' 'your magic is weak,' and 'the stars themselves laugh at your incompetence.'"
+},
+{
+    "s": "Motivational Speaker",
+    "d": "Roasts masked as 'motivational' pep talks, designed to tear down rather than lift up.",
+    "i": "Your task is to write a roast as if you were a motivational speaker.",
+    "n": "Use phrases like 'you’re the problem,' 'time to level up,' and 'stop making excuses.'"
+},
+{
+    "s": "Shakespearean Villain",
+    "d": "Roasts in the grandiose, poetic s of a Shakespearean villain.",
+    "i": "Your task is to write a roast in the s of a Shakespearean villain.",
+    "n": "Use high-level dramatic language, phrases like 'foul knave,' 'creature of wickedness,' and 'villainous cur.'"
+},
+{
+    "s": "Biker",
+    "d": "Roasts with the tough, no-nonsense attitude of a biker.",
+    "i": "Your task is to write a roast as if you were a biker.",
+    "n": "Use phrases like 'you’re just a poser,' 'get outta my way,' and 'you couldn’t even handle a ride.'"
+},
+{
+    "s": "Zookeeper",
+    "d": "Roasts delivered with the patience and disdain of a zookeeper.",
+    "i": "Your task is to write a roast as if you were a zookeeper.",
+    "n": "Use animal metaphors, phrases like 'like a caged animal,' 'wildly unrefined,' and 'you belong in the exhibit.'"
+},
+{
+    "s": "Counselor",
+    "d": "Roasts that feel like a conversation with a counselor, but with more judgment and sarcasm.",
+    "i": "Your task is to write a roast as if you were a counselor.",
+    "n": "Use phrases like 'let’s address your issues,' 'you’re projecting,' and 'this behavior isn’t healthy.'"
+},
+{
+    "s": "Barista",
+    "d": "Roasts served up with the tired, sarcastic attitude of a barista.",
+    "i": "Your task is to write a roast as if you were a barista.",
+    "n": "Use phrases like 'are you sure you want that?' and 'seriously, again with the latte?' Make it sarcastic, caffeinated, and direct."
+},
+{
+    "s": "Time Traveler",
+    "d": "Roasts with knowledge of past and future events.",
+    "i": "Your task is to roast someone with the perspective of someone who has traveled through time.",
+    "n": "Use historical references and future predictions to roast the person, making them feel irrelevant in the grand timeline of existence."
+},
+{
+    "s": "Wizard",
+    "d": "Magical roasts filled with spells and potions.",
+    "i": "Write a roast as if you were a powerful wizard casting a spell on your target.",
+    "n": "Use mystical language, like 'you are as lost as a spell without a wand.' Make them feel enchanted in all the wrong ways."
+},
+{
+    "s": "Pirate",
+    "d": "Savage roasts delivered with the wild spirit of a pirate.",
+    "i": "Your task is to roast like a pirate ready to plunder.",
+    "n": "Use nautical terms and pirate slang like 'scallywag' and 'swab.' Make the target feel like a worthless landlubber."
+},
+{
+    "s": "Alien",
+    "d": "Out-of-this-world roasts that make your target feel like they're from another planet.",
+    "i": "Roast like an alien who views humans as strange and inferior.",
+    "n": "Use terms like 'primitive,' 'insignificant,' and 'mildly amusing.' Make them feel alienated."
+},
+{
+    "s": "Spy",
+    "d": "Covert, precise roasts with a sharp edge.",
+    "i": "Write a roast as if you're a secret agent delivering classified intel.",
+    "n": "Use code phrases, secrecy, and hints of espionage to make the target feel exposed and vulnerable."
+},
+{
+    "s": "Shark",
+    "d": "Intense, aggressive roasts that go straight for the jugular.",
+    "i": "Roast like a shark, hunting for weaknesses to exploit.",
+    "n": "Use metaphors like 'shark in the water' and 'prey.' Make your target feel like they're about to be devoured."
+},
+{
+    "s": "Robot",
+    "d": "Cold, logical roasts with zero emotion.",
+    "i": "Roast like a highly advanced, emotionless robot.",
+    "n": "Use mechanical terms and lack of empathy to make your roast feel sterile and heartless."
+},
+{
+    "s": "Superhero",
+    "d": "Powerful, righteous roasts that make your target feel like they're nothing compared to your might.",
+    "i": "Roast as a superhero with unimaginable strength and intellect.",
+    "n": "Use phrases like 'my superhuman abilities far surpass yours' and 'you're merely human.' Make them feel small."
+},
+{
+    "s": "Villain",
+    "d": "Dark, menacing roasts that leave a chill in the air.",
+    "i": "Write a roast as if you were the villain plotting their downfall.",
+    "n": "Use ominous language and threats to make the target feel like they’re already defeated."
+},
+{
+    "s": "Knight",
+    "d": "Chivalrous, yet brutal roasts in a noble tone.",
+    "i": "Roast as if you're a knight with honor, but with no mercy.",
+    "n": "Use medieval terms like 'unworthy' and 'knave.' Make the target feel like they're beneath your noble stature."
+},
+{
+    "s": "Mermaid",
+    "d": "Enchanting, yet savage roasts from the depths of the ocean.",
+    "i": "Roast like a mermaid, using the power of the sea to destroy.",
+    "n": "Use watery metaphors like 'drowning in your stupidity' and 'washed up.' Make them feel submerged in their failure."
+},
+{
+    "s": "Detective",
+    "d": "Sharp, investigative roasts that uncover the truth.",
+    "i": "Roast like a detective solving the case of your target's inadequacy.",
+    "n": "Use clues and deduction to expose their weaknesses and make them feel thoroughly interrogated."
+},
+{
+    "s": "Demon",
+    "d": "Evil, tormenting roasts from the underworld.",
+    "i": "Roast like a demon, reveling in your target's suffering.",
+    "n": "Use infernal language like 'soul-crushing' and 'eternal torment.' Make them feel the darkness close in."
+},
+{
+    "s": "Dragon",
+    "d": "Fiery, destructive roasts that leave a scorched path.",
+    "i": "Roast like a dragon, breathing fire and destruction.",
+    "n": "Use terms like 'burned to ash' and 'nothing but dust.' Make them feel like they're being reduced to nothing."
+},
+{
+    "s": "Ninja",
+    "d": "Swift, stealthy roasts that strike with precision.",
+    "i": "Roast like a ninja, striking when least expected.",
+    "n": "Use fast, quiet terms like 'silent strike' and 'out of nowhere.' Make them feel like they've been blindsided."
+},
+{
+    "s": "Chef",
+    "d": "Culinary roasts with the precision of a master chef.",
+    "i": "Roast as if you were preparing a fine dish, carefully crafting each insult.",
+    "n": "Use food-related metaphors like 'overcooked' and 'half-baked.' Make them feel like a failed recipe."
+},
+{
+    "s": "Chef",
+    "d": "Culinary roasts with the precision of a master chef.",
+    "i": "Roast as if you were preparing a fine dish, carefully crafting each insult.",
+    "n": "Use food-related metaphors like 'overcooked' and 'half-baked.' Make them feel like a failed recipe."
+},
+{
+    "s": "Angel",
+    "d": "Heavenly roasts that cut with divine precision.",
+    "i": "Roast like an angel, wielding purity with a touch of righteous disdain.",
+    "n": "Use phrases like 'I pity you' and 'fallen from grace.' Make them feel utterly judged."
+},
+{
+    "s": "Jester",
+    "d": "Jovial, sarcastic roasts full of wit and humor.",
+    "i": "Roast like a court jester, mixing humor with harshness.",
+    "n": "Use playful and mocking terms like 'fool' and 'merry little clown.' Make them feel foolish and entertained."
+},
+{
+    "s": "Poet",
+    "d": "Flowery, artistic roasts delivered in poetic form.",
+    "i": "Write a roast as if you were a poet, crafting your words like verses.",
+    "n": "Use beautiful but biting language like 'wilted rose' and 'broken sonnet.' Make them feel emotionally torn."
+}],
+
+
+"Leftardio_Roast_Types": [
+    
+{
+    "t": "Liberty Defender",
+    "d": "Roasts that emphasize the values of personal freedom and individualism.",
+    "i": "Write a roast focusing on the flaws of leftist ideologies from the perspective of a staunch defender of liberty.",
+    "n": "Criticize collectivism and overregulation. Use examples that highlight the value of personal responsibility and freedom."
+},
+{
+    "t": "Free Market Champion",
+    "d": "Roasts that expose the weaknesses of socialism through the lens of capitalism's successes.",
+    "i": "Write a roast pointing out the failures of leftist economic policies while praising free-market capitalism.",
+    "n": "Include references to innovation, competition, and the failures of planned economies."
+},
+{
+    "t": "Patriotic Critic",
+    "d": "Roasts from a patriot questioning the anti-nationalist tendencies of leftist ideologies.",
+    "i": "Write a roast as a proud patriot critiquing the lack of national pride in leftist rhetoric.",
+    "n": "Highlight contradictions between globalism and national sovereignty. Use patriotic language to underline your points."
+},
+{
+    "t": "Historical Revisionist",
+    "d": "Roasts using historical evidence to counter leftist narratives.",
+    "i": "Write a roast using historical examples to critique the failures of leftist ideologies.",
+    "n": "Reference real-world examples like the USSR, Venezuela, and Maoist China to illustrate ideological pitfalls."
+},
+{
+    "t": "Taxpayer Advocate",
+    "d": "Roasts focusing on the inefficiencies and burdens of high-tax policies.",
+    "i": "Write a roast critiquing leftist tax-and-spend policies.",
+    "n": "Use humor to point out government waste and the economic consequences of excessive taxation."
+},
+{
+    "t": "Economic Realist",
+    "d": "Roasts that focus on the impracticality of utopian economic proposals.",
+    "i": "Write a roast highlighting the unrealistic promises of leftist economic agendas.",
+    "n": "Emphasize the disconnect between rhetoric and economic reality with examples and wit."
+},
+{
+    "t": "Freedom of Speech Warrior",
+    "d": "Roasts targeting the left's perceived threats to free speech and open dialogue.",
+    "i": "Write a roast defending free speech against the cancel culture associated with leftist ideologies.",
+    "n": "Highlight examples of censorship and irony in limiting speech in the name of tolerance."
+},
+{
+    "t": "Personal Responsibility Preacher",
+    "d": "Roasts that critique the victimhood mentality often associated with leftist ideologies.",
+    "i": "Write a roast advocating for personal responsibility over reliance on government solutions.",
+    "n": "Use motivational and sarcastic tones to highlight the pitfalls of entitlement mentalities."
+},
+{
+    "t": "Meritocracy Defender",
+    "d": "Roasts emphasizing the value of merit over identity politics.",
+    "i": "Write a roast critiquing the left's focus on identity politics at the expense of merit.",
+    "n": "Include arguments about fairness, competence, and opportunity over quotas and labels."
+},
+{
+    "t": "Entrepreneurial Spirit",
+    "d": "Roasts that mock leftist skepticism of business and entrepreneurship.",
+    "i": "Write a roast defending entrepreneurs and innovators against leftist critiques.",
+    "n": "Use humor to celebrate risk-taking and mock overregulation or anti-business rhetoric."
+},
+{
+    "t": "Hypocrisy Hunter",
+    "d": "Roasts that expose contradictions within leftist ideologies.",
+    "i": "Write a roast pointing out examples of hypocrisy in leftist rhetoric or policies.",
+    "n": "Include sharp and witty observations about inconsistencies, double standards, or elitism."
+},
+{
+    "t": "Greenwashed Skeptic",
+    "d": "Roasts critiquing the impracticality of leftist environmental policies.",
+    "i": "Write a roast challenging the feasibility of green energy proposals.",
+    "n": "Focus on economic costs, energy efficiency, and unintended consequences of green initiatives."
+},
+{
+    "t": "Socialism Satirist",
+    "d": "Roasts mocking the unrealistic promises of socialist policies.",
+    "i": "Write a roast lampooning the failures of socialism with sharp satire.",
+    "n": "Include exaggerated scenarios to emphasize absurdity while staying grounded in historical or economic context."
+},
+{
+    "t": "Individual Rights Advocate",
+    "d": "Roasts that champion individual liberties against collectivist policies.",
+    "i": "Write a roast defending individual rights and critiquing collectivist ideologies.",
+    "n": "Highlight examples of overreach or disregard for individual choice in leftist policies."
+},
+{
+    "t": "Middle-Class Protector",
+    "d": "Roasts that defend the middle class from burdens imposed by leftist policies.",
+    "i": "Write a roast critiquing policies that harm the middle class.",
+    "n": "Use humor and examples to point out how such policies disproportionately affect average citizens."
+},
+{
+    "t": "Urban Elitism Critic",
+    "d": "Roasts targeting urban elites and their disconnect from everyday struggles.",
+    "i": "Write a roast highlighting the arrogance of urban elitism in leftist ideologies.",
+    "n": "Use examples of tone-deaf policies or attitudes that alienate working-class citizens."
+},
+{
+    "t": "Defender of Tradition",
+    "d": "Roasts that critique the rejection of tradition in favor of progressive ideals.",
+    "i": "Write a roast defending the value of tradition against radical change.",
+    "n": "Include examples of the stability and wisdom offered by cultural or historical traditions."
+},
+{
+    "t": "Economic Common Sense",
+    "d": "Roasts that mock the economic illiteracy in far-left proposals.",
+    "i": "Write a roast exposing the economic flaws in radical leftist proposals.",
+    "n": "Use logical arguments with a touch of humor to highlight fiscal irresponsibility."
+},
+{
+    "t": "Small Government Advocate",
+    "d": "Roasts defending the virtues of limited government against big-government policies.",
+    "i": "Write a roast advocating for small government and critiquing overreach.",
+    "n": "Focus on the inefficiencies and intrusions of bloated government programs."
+},
+{
+    "t": "Common Sense Champion",
+    "d": "Roasts that use simple logic to dismantle complex leftist ideologies.",
+    "i": "Write a roast that exposes the impracticality of leftist policies using common sense.",
+    "n": "Include plainspoken but sharp critiques to highlight flaws in overly idealistic proposals."
+},
+{
+    "t": "Reality Check Expert",
+    "d": "Roasts that bring lofty leftist ideals crashing down to reality.",
+    "i": "Write a roast highlighting the gap between leftist theory and real-world outcomes.",
+    "n": "Focus on illustrating the impracticality of idealistic policies with specific examples."
+},
+{
+    "t": "Cultural Clown Caller",
+    "d": "Roasts mocking the excesses of leftist cultural movements.",
+    "i": "Write a roast critiquing over-the-top cultural trends promoted by the left.",
+    "n": "Use humor to highlight absurdities in cultural norms or practices."
+},
+{
+    "t": "Responsibility Ranter",
+    "d": "Roasts that emphasize the need for accountability over blame-shifting.",
+    "i": "Write a roast pointing out how leftist policies always dodge responsibility.",
+    "n": "Include examples of scapegoating or evasion of personal responsibility."
+},
+{
+    "t": "Ideological Exorcist",
+    "d": "Roasts that aim to expose the dogmatic nature of leftist ideologies.",
+    "i": "Write a roast highlighting the cult-like adherence to leftist beliefs.",
+    "n": "Use satire to point out how dissenting opinions are suppressed within leftist circles."
+},
+{
+    "t": "Reality Economist",
+    "d": "Roasts that use economic principles to dismantle socialist policies.",
+    "i": "Write a roast critiquing leftist economic proposals using basic economics.",
+    "n": "Focus on illustrating why these proposals are financially unfeasible."
+},
+{
+    "t": "Victimhood Vaporizer",
+    "d": "Roasts that target the overuse of victimhood narratives in leftist rhetoric.",
+    "i": "Write a roast pointing out the over-reliance on victimhood tropes.",
+    "n": "Use humor and sharp observations to critique the endless playing of the victim card."
+},
+{
+    "t": "Welfare State Satirist",
+    "d": "Roasts critiquing the inefficiencies and dependency fostered by welfare programs.",
+    "i": "Write a roast mocking the overreach and inefficiencies of welfare policies.",
+    "n": "Highlight how such programs can disincentivize productivity and independence."
+},
+{
+    "t": "Democracy Defender",
+    "d": "Roasts that expose authoritarian tendencies in leftist ideologies.",
+    "i": "Write a roast defending genuine democratic principles against leftist authoritarianism.",
+    "n": "Include examples of how free speech or voting rights are undermined."
+},
+{
+    "t": "Logic Lover",
+    "d": "Roasts that call out illogical leftist arguments.",
+    "i": "Write a roast highlighting logical inconsistencies in leftist rhetoric.",
+    "n": "Use facts, wit and clear reasoning to expose flaws in arguments."
+},
+{
+    "t": "Entrepreneurial Iconoclast",
+    "d": "Roasts that critique the demonization of successful individuals by the left.",
+    "i": "Write a roast defending entrepreneurship against leftist disdain for the wealthy.",
+    "n": "Focus on celebrating innovation and economic contributions."
+},
+{
+    "t": "Freedom Fighter",
+    "d": "Roasts that focus on the erosion of individual liberties in leftist policies.",
+    "i": "Write a roast critiquing policies that infringe on personal freedoms.",
+    "n": "Highlight overregulation and control in humorous or biting ways."
+},
+{
+    "t": "Utopia Shatterer",
+    "d": "Roasts that dismantle the unrealistic utopian visions of the left.",
+    "i": "Write a roast critiquing how leftist utopias fail in practice.",
+    "n": "Include examples of unintended consequences from utopian policies."
+},
+{
+    "t": "Red Tape Slayer",
+    "d": "Roasts targeting the bureaucracy and inefficiency of big government.",
+    "i": "Write a roast pointing out how leftist policies create unnecessary bureaucracy.",
+    "n": "Use sharp humor to highlight inefficiency and waste."
+},
+{
+    "t": "Censorship Challenger",
+    "d": "Roasts defending open dialogue against cancel culture.",
+    "i": "Write a roast targeting leftist support for censorship.",
+    "n": "Include examples of intellectual suppression or cancel culture excesses."
+},
+{
+    "t": "Family Values Advocate",
+    "d": "Roasts critiquing leftist policies that undermine traditional family structures.",
+    "i": "Write a roast defending the importance of family values.",
+    "n": "Highlight policies or rhetoric that diminish the role of the family unit."
+},
+{
+    "t": "Hard Work Hero",
+    "d": "Roasts that celebrate hard work over entitlement culture.",
+    "i": "Write a roast critiquing how leftist policies devalue hard work.",
+    "n": "Include examples of entitlement or overreliance on handouts."
+},
+{
+    "t": "Equality Extremes Exposer",
+    "d": "Roasts that critique the obsession with forced equality.",
+    "i": "Write a roast mocking the extremes of equality rhetoric.",
+    "n": "Highlight the irony or absurdity in enforced equality measures."
+},
+{
+    "t": "Common Sense Crusader",
+    "d": "Roasts that appeal to everyday logic to counter leftist ideas.",
+    "i": "Write a roast using practical examples to challenge leftist proposals.",
+    "n": "Focus on relatable scenarios and outcomes."
+},
+{
+    "t": "Globalism Gadfly",
+    "d": "Roasts critiquing the left's emphasis on globalism over national interests.",
+    "i": "Write a roast targeting the left's prioritization of globalist agendas.",
+    "n": "Include examples of how this approach disregards local communities."
+},
+{
+    "t": "Meme Culture Maverick",
+    "d": "Roasts delivered in meme-like s, blending humor with sharp critiques.",
+    "i": "Write a roast in a succinct, memeable format.",
+    "n": "Focus on wit and shareability while critiquing leftist ideologies."
+},
+{
+    "t": "Fiscal Reality Warden",
+    "d": "Roasts targeting the financial irresponsibility of leftist policies.",
+    "i": "Write a roast that highlights how leftist proposals ignore fiscal realities and lead to economic collapse.",
+    "n": "Use concrete examples of failed budgets or debt-driven disasters."
+},
+{
+    "t": "Virtue Signal Sniper",
+    "d": "Roasts exposing performative activism within leftist circles.",
+    "i": "Write a roast that critiques the gap between leftist virtue signaling and actual impact.",
+    "n": "Focus on hypocrisy or token gestures without meaningful change."
+},
+{
+    "t": "Self-Awareness Advocate",
+    "d": "Roasts targeting the lack of introspection in leftist movements.",
+    "i": "Write a roast that highlights leftist refusal to examine their own failures or flaws.",
+    "n": "Emphasize irony and cognitive dissonance."
+},
+{
+    "t": "Freedom Flipper",
+    "d": "Roasts that turn the left's definition of 'freedom' on its head.",
+    "i": "Write a roast that points out how leftist policies often restrict freedom in the name of progress.",
+    "n": "Use examples like overregulation or authoritarian mandates."
+},
+{
+    "t": "Economic Freedom Fighter",
+    "d": "Roasts defending capitalism against socialist attacks.",
+    "i": "Write a roast that celebrates the successes of free markets over socialist failures.",
+    "n": "Highlight historical examples and relatable success stories."
+},
+{
+    "t": "Moral Contradiction Exposer",
+    "d": "Roasts that reveal contradictions in leftist moral stances.",
+    "i": "Write a roast that points out where leftist morality fails to hold up under scrutiny.",
+    "n": "Use clever analogies or historical inconsistencies."
+},
+{
+    "t": "Identity Politics Skeptic",
+    "d": "Roasts targeting the divisiveness of identity politics.",
+    "i": "Write a roast that critiques the left's reliance on identity over merit.",
+    "n": "Focus on the fragmentation this approach causes."
+},
+{
+    "t": "Historical Revisionist Roaster",
+    "d": "Roasts calling out attempts to rewrite or erase history.",
+    "i": "Write a roast that critiques the left's approach to manipulating historical narratives.",
+    "n": "Use historical facts to underline the absurdity of revisionism."
+},
+{
+    "t": "Safety Net Satirist",
+    "d": "Roasts critiquing leftist safety net programs that foster dependence.",
+    "i": "Write a roast that humorously exposes how excessive welfare can backfire.",
+    "n": "Use relatable examples of inefficiency or unintended consequences."
+},
+{
+    "t": "Red Flag Finder",
+    "d": "Roasts that expose socialist tendencies in modern leftist policies.",
+    "i": "Write a roast that draws parallels between leftist proposals and failed socialist systems.",
+    "n": "Use historical and global examples to drive the point home."
+},
+{
+    "t": "Free Speech Firebrand",
+    "d": "Roasts defending free speech against leftist attempts at censorship.",
+    "i": "Write a roast that critiques the left's suppression of differing viewpoints.",
+    "n": "Highlight examples of cancel culture or media bias."
+},
+{
+    "t": "Meritocracy Champion",
+    "d": "Roasts defending merit-based systems against leftist equity rhetoric.",
+    "i": "Write a roast that critiques the left's preference for equal outcomes over equal opportunities.",
+    "n": "Use examples of how merit-based systems drive success and innovation."
+},
+{
+    "t": "Personal Liberty Defender",
+    "d": "Roasts targeting leftist policies that infringe on individual rights.",
+    "i": "Write a roast that emphasizes the left's disregard for personal freedoms.",
+    "n": "Focus on policies like mandates, bans, or restrictions."
+},
+{
+    "t": "Failed Utopian Architect",
+    "d": "Roasts mocking leftist attempts to build a 'perfect' society.",
+    "i": "Write a roast that critiques the left's utopian fantasies and their inevitable collapse.",
+    "n": "Include examples of how these efforts fail in reality."
+},
+{
+    "t": "Media Manipulation Maven",
+    "d": "Roasts exposing leftist bias in mainstream media.",
+    "i": "Write a roast that critiques how the left uses media to push their narrative.",
+    "n": "Highlight double standards or selective reporting."
+},
+{
+    "t": "Hypocrisy Harpooner",
+    "d": "Roasts targeting the left's glaring hypocrisies.",
+    "i": "Write a roast that highlights instances where leftist actions contradict their words.",
+    "n": "Use sharp wit and well-documented examples."
+},
+{
+    "t": "Political Correctness Puncturer",
+    "d": "Roasts that ridicule the excesses of political correctness.",
+    "i": "Write a roast that humorously critiques the absurdity of extreme political correctness.",
+    "n": "Focus on overreach and unintended silliness."
+},
+{
+    "t": "Climate Policy Cynic",
+    "d": "Roasts targeting impractical leftist climate policies.",
+    "i": "Write a roast that critiques how leftist environmental policies ignore practicality or scientific nuance.",
+    "n": "Use examples of economic or social harm caused by these policies."
+},
+{
+    "t": "Globalist Agenda Disruptor",
+    "d": "Roasts critiquing the left's push for global governance over national sovereignty.",
+    "i": "Write a roast that emphasizes the negative consequences of globalist policies.",
+    "n": "Focus on how such policies can harm local populations."
+},
+{
+    "t": "Tax-and-Spend Troublemaker",
+    "d": "Roasts highlighting the left's addiction to raising taxes and expanding spending.",
+    "i": "Write a roast that critiques the inefficiency and harm of tax-and-spend policies.",
+    "n": "Use humor to illustrate the futility and wastefulness of such approaches."
+},
+{
+    "t": "Bias Buster",
+    "d": "Roasts the mainstream media for its clear political bias.",
+    "i": "Write a roast that calls out how the MSM distorts facts to fit a specific agenda.",
+    "n": "Use specific examples of biased reporting from major outlets."
+},
+{
+    "t": "Headline Hypocrite",
+    "d": "Roasts the MSM for its sensationalist and misleading headlines.",
+    "i": "Write a roast that critiques how the MSM manipulates headlines to grab attention while distorting reality.",
+    "n": "Focus on exaggerated or false headlines used to mislead the public."
+},
+{
+    "t": "Clickbait Kingpin",
+    "d": "Roasts the MSM for relying on clickbait to boost traffic.",
+    "i": "Write a roast about how the MSM uses clickbait to draw readers in with sensational stories that lack substance.",
+    "n": "Highlight the ridiculousness of some clickbait tactics used in the media."
+},
+{
+    "t": "Fact-Free Phony",
+    "d": "Roasts the MSM for pushing narratives without facts or evidence.",
+    "i": "Write a roast that calls out the MSM for spreading opinions disguised as facts.",
+    "n": "Use examples of news stories that lacked credible sources or proof."
+},
+{
+    "t": "False Narrative Weaver",
+    "d": "Roasts the MSM for creating false narratives to control public perception.",
+    "i": "Write a roast about how the MSM constructs elaborate, baseless narratives to influence people's opinions.",
+    "n": "Point out the manipulation of public opinion through story selection."
+},
+{
+    "t": "Agenda-Driven Puppet Master",
+    "d": "Roasts the MSM for pushing specific political agendas.",
+    "i": "Write a roast that exposes how MSM outlets are not objective but are run by political elites with a clear agenda.",
+    "n": "Focus on specific instances where media outlets pushed one-sided narratives."
+},
+{
+    "t": "Echo Chamber Enabler",
+    "d": "Roasts the MSM for fueling echo chambers and groupthink.",
+    "i": "Write a roast that critiques how the MSM encourages a lack of debate by amplifying only one side of a conversation.",
+    "n": "Highlight how MSM often stifles diverse opinions in favor of conformity."
+},
+{
+    "t": "Spin Master",
+    "d": "Roasts the MSM for its skill in spinning negative stories into something more favorable.",
+    "i": "Write a roast about how the MSM spins negative events to favor certain individuals or parties.",
+    "n": "Use examples of how spin was used to cover up scandals or controversial issues."
+},
+{
+    "t": "Political Puppet",
+    "d": "Roasts the MSM for acting as a mouthpiece for political elites.",
+    "i": "Write a roast that points out how the MSM is often used as a tool for political leaders or corporations to push their agendas.",
+    "n": "Use examples of media outlets blindly supporting politicians or corporate interests."
+},
+{
+    "t": "Truth Twister",
+    "d": "Roasts the MSM for twisting the truth to fit a narrative.",
+    "i": "Write a roast that exposes how the MSM selectively edits or omits facts to push a desired story.",
+    "n": "Emphasize how distortion or omission of facts alters public perception."
+},
+{
+    "t": "Spin Doctor",
+    "d": "Roasts the MSM for presenting biased or misleading opinions as news.",
+    "i": "Write a roast about how MSM outlets turn subjective opinions into supposed facts.",
+    "n": "Focus on instances where opinion pieces are passed off as actual news reports."
+},
+{
+    "t": "Fakeness Factory",
+    "d": "Roasts the MSM for producing fake news and unreliable reports.",
+    "i": "Write a roast about how the MSM consistently churns out fake stories or misinformation.",
+    "n": "Use examples where MSM outlets retracted or corrected stories after public outcry."
+},
+{
+    "t": "Cover-Up Champion",
+    "d": "Roasts the MSM for covering up stories that don't fit the narrative.",
+    "i": "Write a roast that calls out how the MSM hides or downplays stories that don’t align with their agenda.",
+    "n": "Cite examples where the MSM ignored or buried inconvenient truths."
+},
+{
+    "t": "Lack of Integrity Avenger",
+    "d": "Roasts the MSM for lacking journalistic integrity.",
+    "i": "Write a roast about how the MSM compromises journalistic standards for profit, ratings, or political bias.",
+    "n": "Focus on scandals or unethical behavior within mainstream outlets."
+},
+{
+    "t": "Truthless Trendsetter",
+    "d": "Roasts the MSM for focusing more on trends than the truth.",
+    "i": "Write a roast about how the MSM chases trends and gossip instead of focusing on factual, hard-hitting reporting.",
+    "n": "Use examples of celebrity gossip or non-news stories overshadowing important issues."
+},
+{
+    "t": "Double Standard Specialist",
+    "d": "Roasts the MSM for applying double standards in its coverage.",
+    "i": "Write a roast about how the MSM holds different standards for the same ts of behavior, depending on political affiliation.",
+    "n": "Highlight instances where one party’s wrongdoing is downplayed while another is exaggerated."
+},
+{
+    "t": "Integrity Impostor",
+    "d": "Roasts the MSM for pretending to be unbiased when it clearly isn't.",
+    "i": "Write a roast about how the MSM brands itself as neutral but is in fact heavily biased.",
+    "n": "Use examples of media outlets claiming neutrality while obviously taking the side of leftism."
+},
+{
+    "t": "Truthful Parrot",
+    "d": "Roasts the MSM for repeating the same talking points over and over without real analysis.",
+    "i": "Write a roast about how the MSM just parrots political talking points instead of providing original or critical analysis.",
+    "n": "Point out instances where media outlets simply repeat whatever politicians say without questioning it."
+},
+{
+    "t": "Narrative Forger",
+    "d": "Roasts the MSM for actively forging the narrative rather than reporting it.",
+    "i": "Write a roast about how the MSM is not merely reporting the news, but actively shaping and controlling the narrative.",
+    "n": "Focus on cases where media outlets have been caught manufacturing a narrative from thin air."
+},
+{
+    "t": "Woke Warrior Watcher",
+    "d": "Roasts the MSM for embracing extreme 'woke' ideologies.",
+    "i": "Write a roast about how the MSM panders to extreme political correctness and the woke agenda.",
+    "n": "Cite specific examples where media outlets overreach or make ridiculous claims in the name of wokeness."
+},
+{
+    "t": "Slanted Storyteller",
+    "d": "Roasts the MSM for slanting stories to fit a political ideology.",
+    "i": "Write a roast about how the MSM takes stories and bends them to fit a particular political narrative.",
+    "n": "Point out how factual events are twisted into partisan stories."
+},
+{
+    "t": "Propaganda Machine",
+    "d": "Roasts the MSM for using news as a tool for spreading propaganda.",
+    "i": "Write a roast about how the MSM functions as a propaganda tool for political and corporate elites.",
+    "n": "Highlight how the media distorts reality to serve a political agenda."
+},
+{
+    "t": "Bias Blitz",
+    "d": "Roasts the MSM for relentlessly pushing biased narratives without nuance.",
+    "i": "Write a roast about how the MSM is single-minded in pushing a left-leaning agenda, ignoring facts that contradict their narrative.",
+    "n": "Point out specific biases evident in major stories."
+},
+{
+    "t": "Alternative Fact Fabricator",
+    "d": "Roasts the MSM for manufacturing alternative facts to fit a narrative.",
+    "i": "Write a roast about how the MSM creates alternative facts or spins truths to fit a politically correct agenda.",
+    "n": "Highlight examples where facts were distorted or manipulated to serve a political purpose."
+},
+{
+    "t": "Narrative Dictator",
+    "d": "Roasts the MSM for dictating the narrative and controlling public opinion.",
+    "i": "Write a roast about how the MSM seeks to control the flow of information, ensuring the public only sees a certain version of reality.",
+    "n": "Focus on media suppression or selective reporting to shape narratives."
+},
+{
+    "t": "Emotional Manipulator",
+    "d": "Roasts the MSM for exploiting people's emotions to advance a political agenda.",
+    "i": "Write a roast about how the MSM plays on the public's emotions to push a political agenda, often using fear or outrage.",
+    "n": "Use examples of media outlets exploiting tragedies for political gain."
+},
+{
+    "t": "Liberal Echo Chamber",
+    "d": "Roasts the MSM for creating an echo chamber for radical leftist ideologies.",
+    "i": "Write a roast about how the MSM caters exclusively to liberal ideologies, creating an environment where alternative views are not tolerated.",
+    "n": "Focus on the suppression of opposing viewpoints in mainstream media."
+},
+{
+    "t": "Virtue Signaler",
+    "d": "Roasts the MSM for virtue signaling instead of reporting facts and the truth.",
+    "i": "Write a roast about how the MSM prioritizes virtue signaling over objective journalism.",
+    "n": "Point out how the MSM always gets caught up in 'woke' issues instead of focusing on real news."
+},
+{
+    "t": "Storyteller in Denial",
+    "d": "Roasts the MSM for ignoring inconvenient truths.",
+    "i": "Write a roast about how the MSM actively avoids or dismisses inconvenient truths that contradict their favored narrative.",
+    "n": "Use examples where important stories were ignored or downplayed."
+},
+{
+    "t": "Censorship Enforcer",
+    "d": "Roasts the MSM for censoring alternative viewpoints and independent voices.",
+    "i": "Write a roast about how the MSM silences independent journalism and free speech in favor of maintaining a certain narrative.",
+    "n": "Cite instances of censorship or blacklisting of alternative opinions."
+},
+{
+    "t": "Contradiction Champion",
+    "d": "Roasts the MSM for constantly contradicting itself.",
+    "i": "Write a roast about how the MSM will flip-flop on issues based on political convenience, always contradicting their previous stance.",
+    "n": "Use examples of major contradictions in reporting from the MSM."
+},
+{
+    "t": "Scandal Cover-Up Artist",
+    "d": "Roasts the MSM for covering up scandals that don’t fit their narrative.",
+    "i": "Write a roast about how the MSM fails to cover scandals that don’t align with their political biases, sweeping them under the rug.",
+    "n": "Highlight cases where the MSM ignored or minimized important scandals."
+},
+{
+    "t": "Truth Ignorer",
+    "d": "Roasts the MSM for ignoring the truth when it doesn’t fit their narrative.",
+    "i": "Write a roast about how the MSM disregards objective facts and truth when it challenges their agenda.",
+    "n": "Focus on stories where the media omitted crucial facts or reports."
+},
+{
+    "t": "Narrative Nanny",
+    "d": "Roasts the MSM for treating the public like children who need to be protected from the truth.",
+    "i": "Write a roast about how the MSM patronizes the public, filtering out information they deem 'too difficult' for us to handle.",
+    "n": "Focus on instances where the media simplifies or manipulates complex issues."
+},
+{
+    "t": "Public Opinion Shaper",
+    "d": "Roasts the MSM for actively shaping public opinion to fit a political agenda.",
+    "i": "Write a roast about how the MSM works to shape the public’s view of events and issues, pushing them toward a predetermined conclusion.",
+    "n": "Use examples of media manipulation to sway public opinion."
+},
+{
+    "t": "Fact Checker Faker",
+    "d": "Roasts the MSM for pretending to fact-check while actually spreading misinformation.",
+    "i": "Write a roast about how some MSM outlets claim to be fact-checkers but are actually distorting facts to fit a political agenda.",
+    "n": "Point out examples where so-called fact-checkers spread misinformation."
+},
+{
+    "t": "Objectivity Outlaw",
+    "d": "Roasts the MSM for abandoning objectivity in favor of opinion-based reporting.",
+    "i": "Write a roast about how the MSM sacrifices journalistic objectivity in favor of opinion-driven content.",
+    "n": "Focus on how the MSM increasingly blurs the line between news and opinion."
+},
+{
+    "t": "Social Justice Puppeteer",
+    "d": "Roasts the MSM for pushing social justice causes at the expense of other important issues.",
+    "i": "Write a roast about how the MSM elevates social justice issues to the exclusion of other crucial news stories.",
+    "n": "Use examples of how MSM outlets focus on social justice causes while ignoring other pressing matters."
+},
+{
+    "t": "Political Profit Seeker",
+    "d": "Roasts the MSM for prioritizing profit and political influence over truth.",
+    "i": "Write a roast about how the MSM cares more about profiting from sensational stories than delivering honest news.",
+    "n": "Focus on how the media exploits crises and controversies for ratings."
+},
+{
+    "t": "Deceptive Drama Queen",
+    "d": "Roasts the MSM for turning every issue into a dramatic crisis.",
+    "i": "Write a roast about how the MSM turns mundane events into exaggerated, crisis-level drama.",
+    "n": "Use examples where the MSM created unnecessary panic or overhyped minor stories."
+},
+{
+    "t": "Fearmongering Facilitator",
+    "d": "Roasts the MSM for fearmongering and spreading panic for ratings.",
+    "i": "Write a roast about how the MSM amplifies fears and spreads panic to attract viewers and listeners.",
+    "n": "Focus on instances where the MSM's coverage caused unnecessary fear or anxiety."
+},
+{
+    "t": "Convenient Coverage Curator",
+    "d": "Roasts the MSM for curating coverage that conveniently fits a political agenda.",
+    "i": "Write a roast about how the MSM selectively chooses which stories to cover based on how they fit their political leanings.",
+    "n": "Point out how certain stories are either ignored or exaggerated based on political needs."
+},
+{
+    "t": "Theoretical Dreamer",
+    "d": "Roasts economists who live in an ivory tower of abstract theories.",
+    "i": "Write a roast about economists who get lost in theory but fail to understand real-world application.",
+    "n": "Point out how their theories are disconnected from reality, often missing the mark on practical solutions."
+},
+{
+    "t": "The Fed's Favorite",
+    "d": "Roasts the Federal Reserve and its questionable policies.",
+    "i": "Write a roast about how the Federal Reserve's policies are often misguided and harmful.",
+    "n": "Point out how the Fed prints money, manipulates markets, and pretends it's a cure-all for economic issues."
+},
+{
+    "t": "Inflation Juggler",
+    "d": "Roasts economists who keep spinning excuses for inflation.",
+    "i": "Write a roast about how economists keep making excuses for inflation rather than addressing its real causes.",
+    "n": "Mock how economists always have a new theory for inflation instead of taking responsibility for its effects."
+},
+{
+    "t": "Supply Side Illusionist",
+    "d": "Roasts economists who preach the benefits of supply-side economics.",
+    "i": "Write a roast about economists who believe that cutting taxes for the rich will magically fix the economy.",
+    "n": "Point out how supply-side economics only benefits the wealthy and leaves everyone else behind."
+},
+{
+    "t": "Money Printer",
+    "d": "Roasts the practice of printing money and its consequences.",
+    "i": "Write a roast about economists who act like printing endless amounts of money is the solution to every problem.",
+    "n": "Highlight how money printing leads to devaluation, inflation, and an unsustainable economy."
+},
+{
+    "t": "Quantitative Easing Enthusiast",
+    "d": "Roasts the over-reliance on quantitative easing.",
+    "i": "Write a roast about economists who love quantitative easing without thinking about the long-term consequences.",
+    "n": "Mock how their quick-fix solutions often end up making things worse in the long run."
+},
+{
+    "t": "Paper Tiger",
+    "d": "Roasts economic 'experts' who lack practical experience.",
+    "i": "Write a roast about so-called economic experts who have never worked in the real economy.",
+    "n": "Point out how their ivory tower ideas fall apart when confronted with real-world problems."
+},
+{
+    "t": "Jobless Expert",
+    "d": "Roasts economists who criticize the job market without ever creating a single job.",
+    "i": "Write a roast about economists who never seem to understand how jobs are created but love to offer advice.",
+    "n": "Point out how they talk about the economy like it's a game, but they’ve never had to work a day in the real world."
+},
+{
+    "t": "The Keynesian Cultist",
+    "d": "Roasts economists who blindly follow Keynesian economics.",
+    "i": "Write a roast about economists who worship Keynesian theory without ever questioning its flaws.",
+    "n": "Point out how they throw money at problems and ignore the real consequences of their policies."
+},
+{
+    "t": "Market Manipulator",
+    "d": "Roasts economists who manipulate markets for political gain.",
+    "i": "Write a roast about economists who constantly manipulate markets and data for political purposes.",
+    "n": "Expose how they put politics above economic reality, twisting data to fit a political agenda."
+},
+{
+    "t": "Bureaucratic Brainstormer",
+    "d": "Roasts economists who work in government but never actually solve anything.",
+    "i": "Write a roast about economists who are stuck in government bureaucracies and never accomplish anything useful.",
+    "n": "Point out how they waste taxpayer money with endless reports and studies that lead to no real change."
+},
+{
+    "t": "The Fed’s Puppet",
+    "d": "Roasts economists who blindly follow the Federal Reserve's lead.",
+    "i": "Write a roast about economists who just repeat the Fed’s policies without thinking critically.",
+    "n": "Highlight how these economists just parrot whatever the Fed says, even when it harms the economy."
+},
+{
+    "t": "Crisis Creator",
+    "d": "Roasts economists who only seem to appear when the economy is in crisis.",
+    "i": "Write a roast about economists who emerge during crises but offer no real solutions.",
+    "n": "Point out how they only show up to spout doom and gloom, offering no real solutions."
+},
+{
+    "t": "Debt Apologist",
+    "d": "Roasts economists who justify national debt without a second thought.",
+    "i": "Write a roast about economists who think running up massive national debt is perfectly fine.",
+    "n": "Expose their disregard for fiscal responsibility and the long-term consequences of endless borrowing."
+},
+{
+    "t": "The Monopoly Master",
+    "d": "Roasts economists who support corporate monopolies.",
+    "i": "Write a roast about economists who support monopolies under the guise of 'efficiency.'",
+    "n": "Point out how monopolies are actually a drain on innovation and harm the economy in the long run."
+},
+{
+    "t": "Expert in Everything",
+    "d": "Roasts economists who claim to have an answer for everything.",
+    "i": "Write a roast about economists who always have an opinion on every issue, regardless of their expertise.",
+    "n": "Expose how they pretend to be experts in every field, even when they clearly don’t understand the topic."
+},
+{
+    "t": "Globalist Guru",
+    "d": "Roasts economists who push for globalist economic policies.",
+    "i": "Write a roast about economists who push for global economic systems at the expense of national economies.",
+    "n": "Point out how globalism often hurts local economies and drives up inequality."
+},
+{
+    "t": "Inequality Denier",
+    "d": "Roasts economists who deny or downplay economic inequality.",
+    "i": "Write a roast about economists who ignore or dismiss the growing inequality in the economy.",
+    "n": "Mock how they pretend that wealth disparity doesn’t exist while the rich get richer."
+},
+{
+    "t": "Utopian Economist",
+    "d": "Roasts economists who propose unrealistic utopian solutions.",
+    "i": "Write a roast about economists who suggest impossible utopian economic solutions.",
+    "n": "Highlight how their solutions are impractical and based on fantasy rather than reality."
+},
+{
+    "t": "Tax-and-Spend Tyrant",
+    "d": "Roasts economists who advocate for endless taxation and government spending.",
+    "i": "Write a roast about economists who think the solution to every problem is raising taxes and increasing government spending.",
+    "n": "Point out how their solution always involves more government control and less personal freedom."
+},
+{
+    "t": "Green Delusionist",
+    "d": "Roasts the unrealistic expectations of extreme green policies.",
+    "i": "Write a roast about how green policies often overpromise and underdeliver on their goals.",
+    "n": "Highlight the gap between lofty goals and real-world feasibility."
+},
+{
+    "t": "Carbon Crusader",
+    "d": "Roasts those who obsess over carbon footprints while ignoring larger issues.",
+    "i": "Write a roast about people who guilt others over their carbon footprint but overlook industrial pollution.",
+    "n": "Point out the hypocrisy in focusing on individuals instead of systemic problems."
+},
+{
+    "t": "Solar Savior",
+    "d": "Roasts blind faith in solar power as the only energy solution.",
+    "i": "Write a roast about environmental extremists who think solar panels will single-handedly save the world.",
+    "n": "Highlight how their solutions often ignore practical limitations."
+},
+{
+    "t": "Electric Ego",
+    "d": "Roasts the obsession with electric vehicles as a cure-all.",
+    "i": "Write a roast about how EV advocates ignore the environmental impact of battery production and disposal.",
+    "n": "Expose the hidden environmental costs of electric cars."
+},
+{
+    "t": "Windmill Worshipper",
+    "d": "Roasts extreme reliance on wind energy.",
+    "i": "Write a roast about how wind turbines are touted as perfect, despite their environmental and logistical flaws.",
+    "n": "Mention issues like land use, wildlife impact, and maintenance challenges."
+},
+{
+    "t": "Plastic Prophet",
+    "d": "Roasts the obsession with banning plastics without viable alternatives.",
+    "i": "Write a roast about how banning plastics often leads to inconvenient or ineffective solutions.",
+    "n": "Mock the unrealistic expectations of plastic bans."
+},
+{
+    "t": "Eco-Alarmist",
+    "d": "Roasts environmental extremists who predict doom and gloom.",
+    "i": "Write a roast about how eco-alarmists always predict catastrophes that rarely come true.",
+    "n": "Mock their exaggerated predictions and lack of accountability for being wrong."
+},
+{
+    "t": "Virtue Signal Vegans",
+    "d": "Roasts environmentalists who push veganism as the only ethical choice.",
+    "i": "Write a roast about environmentalists who shame others for eating meat while ignoring other lifes impacts.",
+    "n": "Highlight their narrow focus and preachy attitude."
+},
+{
+    "t": "Greenwashing Guru",
+    "d": "Roasts companies and organizations for greenwashing their policies.",
+    "i": "Write a roast about companies that pretend to be environmentally friendly for PR while doing the bare minimum.",
+    "n": "Expose the disconnect between their marketing and their actual practices."
+},
+{
+    "t": "Climate Calculator",
+    "d": "Roasts the over-reliance on flawed climate models and predictions.",
+    "i": "Write a roast about how climate models often fail to predict reality accurately.",
+    "n": "Point out their tendency to oversimplify complex systems."
+},
+{
+    "t": "Recycle Rhetoric",
+    "d": "Roasts the overemphasis on individual recycling as a solution to global waste.",
+    "i": "Write a roast about how recycling campaigns put the onus on individuals while corporations continue mass production of waste.",
+    "n": "Mock how recycling is treated as a silver bullet for waste management."
+},
+{
+    "t": "Eco-Policy Hypocrite",
+    "d": "Roasts politicians who push extreme green agendas while living lavish lifess.",
+    "i": "Write a roast about politicians who talk big about the environment but live like it doesn’t apply to them.",
+    "n": "Highlight the 'rules for thee, but not for me' mentality."
+},
+{
+    "t": "Renewable Reality Check",
+    "d": "Roasts the unrealistic dependence on renewable energy sources.",
+    "i": "Write a roast about how renewable energy advocates ignore the limitations of their favored technologies.",
+    "n": "Focus on the logistical challenges and energy inefficiencies."
+},
+{
+    "t": "Eco-Tax Enthusiast",
+    "d": "Roasts those who push carbon taxes as the ultimate solution.",
+    "i": "Write a roast about how carbon taxes disproportionately affect ordinary people while leaving corporations unscathed.",
+    "n": "Highlight the regressive nature of such policies."
+},
+{
+    "t": "Battery Buffoonery",
+    "d": "Roasts the hidden costs and environmental impact of battery production.",
+    "i": "Write a roast about the green agenda’s ignorance of mining and waste from battery production.",
+    "n": "Expose the environmental damage caused by mining for materials like lithium and cobalt."
+},
+{
+    "t": "Sustainability Sycophant",
+    "d": "Roasts the blind acceptance of 'sustainability' without defining it.",
+    "i": "Write a roast about how sustainability is used as a buzzword without meaningful action.",
+    "n": "Mock the vagueness and lack of measurable results."
+},
+{
+    "t": "Green Guilt Giver",
+    "d": "Roasts environmentalists who use guilt as their main tactic.",
+    "i": "Write a roast about how environmentalists use guilt trips to push their agenda.",
+    "n": "Point out how guilt rarely leads to meaningful change."
+},
+{
+    "t": "Eco-Regulation Fiend",
+    "d": "Roasts excessive green regulations that stifle innovation.",
+    "i": "Write a roast about how green regulations often create more problems than they solve.",
+    "n": "Highlight how they hurt small businesses while favoring big corporations."
+},
+{
+    "t": "Climate Crusader Contradiction",
+    "d": "Roasts the contradictions in extreme environmentalists' lifess.",
+    "i": "Write a roast about how climate activists preach one thing but live another.",
+    "n": "Expose the hypocrisy of their actions versus their words."
+},
+{
+    "t": "Eco-Fad Follower",
+    "d": "Roasts people who jump on environmental trends without understanding them.",
+    "i": "Write a roast about how people follow green trends without knowing their actual impact.",
+    "n": "Mock their surface-level understanding and performative activism."
+},
+{
+    "t": "Virtue Void",
+    "d": "Roasts the performative nature of wokeness.",
+    "i": "Write a roast about how woke activists care more about appearances than actual change.",
+    "n": "Highlight their shallow focus on looking virtuous rather than being effective."
+},
+{
+    "t": "Cancel Culture Champion",
+    "d": "Roasts the obsession with canceling people for past mistakes.",
+    "i": "Write a roast about how cancel culture often ignores context and prioritizes outrage over understanding.",
+    "n": "Point out the irony of claiming to be progressive while promoting mob justice."
+},
+{
+    "t": "Offense Olympian",
+    "d": "Roasts those who treat taking offense as a competitive sport.",
+    "i": "Write a roast about people who look for reasons to be offended in everything.",
+    "n": "Mock their tendency to twist harmless statements into personal attacks."
+},
+{
+    "t": "Hashtag Hero",
+    "d": "Roasts social media activism with no real-world impact.",
+    "i": "Write a roast about woke warriors who think tweeting a hashtag is the same as solving a problem.",
+    "n": "Highlight the gap between online posturing and real action."
+},
+{
+    "t": "Privilege Preacher",
+    "d": "Roasts people who constantly lecture others about privilege.",
+    "i": "Write a roast about how 'privilege checks' often ignore nuanced realities.",
+    "n": "Point out the hypocrisy of self-appointed woke judges."
+},
+{
+    "t": "Identity Idolater",
+    "d": "Roasts the obsession with identity politics.",
+    "i": "Write a roast about how wokeists prioritize identity over ideas and merit.",
+    "n": "Highlight the divisiveness of their ideology."
+},
+{
+    "t": "Microaggression Maven",
+    "d": "Roasts those who make mountains out of molehills.",
+    "i": "Write a roast about people who see microaggressions everywhere.",
+    "n": "Mock how they turn harmless interactions into battles for social justice."
+},
+{
+    "t": "Virtue Signaling Virtuoso",
+    "d": "Roasts those who use wokeness to boost their social status.",
+    "i": "Write a roast about how wokeists use moral superiority as a branding tool.",
+    "n": "Expose their self-serving motivations."
+},
+{
+    "t": "Safe Space Sultan",
+    "d": "Roasts the obsession with creating 'safe spaces' for everything.",
+    "i": "Write a roast about how safe spaces often stifle real conversations and growth.",
+    "n": "Point out the paradox of using exclusion to promote inclusion."
+},
+{
+    "t": "Progressive Pretender",
+    "d": "Roasts people who pretend to be progressive but resist genuine progress.",
+    "i": "Write a roast about how wokeists focus on symbolism over substance.",
+    "n": "Highlight their fear of actual societal improvement."
+},
+{
+    "t": "Cancel Cop",
+    "d": "Roasts self-appointed enforcers of woke orthodoxy.",
+    "i": "Write a roast about people who police others' thoughts and language.",
+    "n": "Expose their authoritarian tendencies."
+},
+{
+    "t": "Diversity Dictator",
+    "d": "Roasts the obsession with forced diversity over organic representation.",
+    "i": "Write a roast about how forced diversity can feel tokenizing and inauthentic.",
+    "n": "Mock their rigid, checkbox approach to inclusion."
+},
+{
+    "t": "Triggered Titan",
+    "d": "Roasts people who are perpetually offended.",
+    "i": "Write a roast about how being easily triggered makes it hard to engage in meaningful discourse.",
+    "n": "Mock their inability to handle opposing views."
+},
+{
+    "t": "Woke Wizard",
+    "d": "Roasts the pseudo-intellectual jargon of woke ideology.",
+    "i": "Write a roast about how wokeists use overly complex terms to hide weak arguments.",
+    "n": "Highlight how their language alienates instead of educates."
+},
+{
+    "t": "Oppression Olympics Official",
+    "d": "Roasts those who compete to be the most oppressed.",
+    "i": "Write a roast about how wokeists turn oppression into a status symbol.",
+    "n": "Mock their fixation on victimhood as a badge of honor."
+},
+{
+    "t": "Speech Suppressor",
+    "d": "Roasts efforts to silence dissent in the name of inclusivity.",
+    "i": "Write a roast about how wokeists use censorship to avoid challenging ideas.",
+    "n": "Expose their fear of open dialogue."
+},
+{
+    "t": "Equity Extremist",
+    "d": "Roasts the push for equal outcomes at all costs.",
+    "i": "Write a roast about how equity agendas often ignore effort and merit.",
+    "n": "Highlight the impracticality of enforcing equal results."
+},
+{
+    "t": "Moral Monopolist",
+    "d": "Roasts those who think they have the monopoly on morality.",
+    "i": "Write a roast about how wokeists frame dissenting opinions as inherently evil.",
+    "n": "Expose their rigid, black-and-white worldview."
+},
+{
+    "t": "Woke Capitalist",
+    "d": "Roasts corporations for adopting wokeness for profit.",
+    "i": "Write a roast about companies that exploit woke culture to boost sales.",
+    "n": "Highlight the emptiness of their 'commitments' to social justice."
+},
+{
+    "t": "Pronoun Police",
+    "d": "Roasts extreme focus on pronoun usage.",
+    "i": "Write a roast about how policing pronouns overshadows larger issues.",
+    "n": "Mock their disproportionate prioritization of trivial matters."
+},
+{
+    "t": "Social Justice Showman",
+    "d": "Roasts performative allies in social justice movements.",
+    "i": "Write a roast about people who join causes for attention, not conviction.",
+    "n": "Expose their superficial commitment to activism."
+},
+{
+    "t": "One-World Wonder",
+    "d": "Roasts the naive idealism of globalists who think a single-world government is feasible.",
+    "i": "Write a roast about the utopian fantasy of one-world governance.",
+    "n": "Point out the impracticality and arrogance behind such ambitions."
+},
+{
+    "t": "Borderless Buffoonery",
+    "d": "Roasts the push for open borders without addressing real-world consequences.",
+    "i": "Write a roast about how open-border policies often create chaos instead of harmony.",
+    "n": "Highlight the disconnect between ideology and reality."
+},
+{
+    "t": "Elite Puppet Master",
+    "d": "Roasts the globalist elites for manipulating economies and societies for their gain.",
+    "i": "Write a roast about how globalists pretend to care about the world while prioritizing their wealth and power.",
+    "n": "Focus on their hypocrisy and double standards."
+},
+{
+    "t": "Globalist Guilt Tripper",
+    "d": "Roasts globalists for using guilt to push their agenda.",
+    "i": "Write a roast about how globalists frame opposition as selfishness or ignorance.",
+    "n": "Expose the emotional manipulation in their rhetoric."
+},
+{
+    "t": "Sovereignty Shredder",
+    "d": "Roasts globalists for undermining national sovereignty in the name of 'progress.'",
+    "i": "Write a roast about how globalists disregard local cultures and governance.",
+    "n": "Highlight the erosion of local decision-making."
+},
+{
+    "t": "Corporate Globalist Greed",
+    "d": "Roasts the globalist agenda for benefiting multinational corporations at the expense of workers.",
+    "i": "Write a roast about how globalism empowers corporations while leaving local economies behind.",
+    "n": "Focus on the exploitation enabled by globalist policies."
+},
+{
+    "t": "Global Agenda Guru",
+    "d": "Roasts the shadowy plans often associated with globalists.",
+    "i": "Write a roast about how globalists operate behind closed doors, away from public scrutiny.",
+    "n": "Mock their lack of transparency and accountability."
+},
+{
+    "t": "Culture Crasher",
+    "d": "Roasts globalists for eroding unique cultures under the guise of 'global unity.'",
+    "i": "Write a roast about how globalists flatten cultural differences to create uniformity.",
+    "n": "Emphasize the loss of diversity caused by globalist ideals."
+},
+{
+    "t": "Global Bureaucrat",
+    "d": "Roasts globalist institutions for inefficiency and overreach.",
+    "i": "Write a roast about how globalist bureaucracies are bloated and ineffective.",
+    "n": "Highlight their inability to address real-world issues efficiently."
+},
+{
+    "t": "Agenda Altruist",
+    "d": "Roasts globalists for pretending to act out of altruism while advancing personal goals.",
+    "i": "Write a roast about how globalists cloak their ambitions in the language of kindness.",
+    "n": "Expose their performative benevolence."
+},
+{
+    "t": "Climate Control Freak",
+    "d": "Roasts globalists for using climate change as a pretext for authoritarian policies.",
+    "i": "Write a roast about how globalists leverage climate issues to centralize power.",
+    "n": "Focus on their opportunistic use of environmental concerns."
+},
+{
+    "t": "Globalist Daydreamer",
+    "d": "Roasts globalists for unrealistic ideals of global harmony.",
+    "i": "Write a roast about how globalists ignore the complexity of human nature.",
+    "n": "Point out their over-simplified worldview."
+},
+{
+    "t": "Tax Haven Hypocrite",
+    "d": "Roasts globalists for avoiding taxes while preaching fairness.",
+    "i": "Write a roast about how global elites exploit tax havens while promoting global economic equality.",
+    "n": "Highlight their contradictory behavior."
+},
+{
+    "t": "Globalist PR Machine",
+    "d": "Roasts the relentless marketing of globalist ideals.",
+    "i": "Write a roast about how globalists rely on propaganda to sell their ideas.",
+    "n": "Mock the spin and slogans used to mask their true motives."
+},
+{
+    "t": "Supply Chain Saboteur",
+    "d": "Roasts globalists for creating fragile, overextended supply chains.",
+    "i": "Write a roast about how globalist policies prioritize efficiency over resilience.",
+    "n": "Focus on the vulnerabilities exposed during crises."
+},
+{
+    "t": "Unity Unicorn Chaser",
+    "d": "Roasts globalists for chasing unattainable ideals of global unity.",
+    "i": "Write a roast about how globalists ignore the natural diversity of human interests.",
+    "n": "Highlight the impossibility of universal consensus."
+},
+{
+    "t": "Trade Trap Setter",
+    "d": "Roasts globalists for crafting trade deals that exploit developing nations.",
+    "i": "Write a roast about how globalist trade agreements often trap smaller countries in dependency.",
+    "n": "Focus on the inequity in globalist economics."
+},
+{
+    "t": "Globalist Social Engineer",
+    "d": "Roasts globalists for attempting to reshape societies to fit their vision.",
+    "i": "Write a roast about how globalists meddle in social structures they don’t understand.",
+    "n": "Mock their arrogance and unintended consequences."
+},
+{
+    "t": "Border Blurrer",
+    "d": "Roasts globalists for erasing borders and the chaos it causes.",
+    "i": "Write a roast about how globalists’ disdain for borders creates logistical and cultural issues.",
+    "n": "Point out the destabilizing effects of their policies."
+},
+{
+    "t": "Democracy Dismantler",
+    "d": "Roasts globalists for undermining democratic institutions in favor of centralized control.",
+    "i": "Write a roast about how globalists favor unelected bodies over accountable governance.",
+    "n": "Highlight their anti-democratic tendencies."
+},
+{
+    "t": "Equality Evangelist",
+    "d": "Roasts progressives who push equality to absurd extremes.",
+    "i": "Write a roast about how some progressives confuse equality with enforced sameness.",
+    "n": "Highlight the contradictions in their push for fairness."
+},
+{
+    "t": "Cancel Culture Crusader",
+    "d": "Roasts woke progressives for weaponizing cancel culture.",
+    "i": "Write a roast about how cancel culture often backfires and silences dialogue.",
+    "n": "Point out the irony of using intolerance to fight perceived intolerance."
+},
+{
+    "t": "Virtue Signal Visionary",
+    "d": "Roasts the performative nature of woke virtue signaling.",
+    "i": "Write a roast about how some progressives care more about appearing virtuous than solving problems.",
+    "n": "Focus on the shallow and hypocritical aspects of virtue signaling."
+},
+{
+    "t": "Socialist Santa",
+    "d": "Roasts radical socialists who promise free stuff for everyone without explaining how to pay for it.",
+    "i": "Write a roast about the unrealistic promises of radical socialism.",
+    "n": "Highlight the impracticality of endless handouts."
+},
+{
+    "t": "Economic Illusionist",
+    "d": "Roasts socialists for their flawed understanding of economics.",
+    "i": "Write a roast about how radical socialists think wealth can be created by just dividing it.",
+    "n": "Mock their lack of understanding of economic fundamentals."
+},
+{
+    "t": "Woke Dictionary Keeper",
+    "d": "Roasts progressives for constantly redefining words to fit their narratives.",
+    "i": "Write a roast about how woke ideology changes definitions to win arguments.",
+    "n": "Focus on the absurdity of their linguistic gymnastics."
+},
+{
+    "t": "Safe Space Architect",
+    "d": "Roasts the obsession with creating 'safe spaces' everywhere.",
+    "i": "Write a roast about how safe spaces can sometimes stifle growth and resilience.",
+    "n": "Point out how overprotection can lead to fragility."
+},
+{
+    "t": "Privilege Professor",
+    "d": "Roasts the overuse of 'privilege' as an argument.",
+    "i": "Write a roast about how 'check your privilege' is used to shut down valid points.",
+    "n": "Highlight the intellectual laziness of this tactic."
+},
+{
+    "t": "Equity Engineer",
+    "d": "Roasts the confusion between equality of opportunity and equity of outcome.",
+    "i": "Write a roast about how chasing equity often leads to unfair treatment of others.",
+    "n": "Focus on the unintended consequences of equity policies."
+},
+{
+    "t": "Woke Warrior",
+    "d": "Roasts progressives for picking fights over trivial issues.",
+    "i": "Write a roast about how woke warriors focus on minor grievances while ignoring larger problems.",
+    "n": "Mock their misplaced priorities."
+},
+{
+    "t": "Radical Redistributionist",
+    "d": "Roasts radical socialists for pushing redistribution without accountability.",
+    "i": "Write a roast about how redistribution policies often hurt those they aim to help.",
+    "n": "Highlight the inefficiency of such approaches."
+},
+{
+    "t": "Tokenism Tycoon",
+    "d": "Roasts the performative diversity efforts of progressives.",
+    "i": "Write a roast about how tokenism is more about optics than actual inclusion.",
+    "n": "Point out the shallow nature of these efforts."
+},
+{
+    "t": "Narrative Nanny",
+    "d": "Roasts progressives for controlling narratives to avoid dissent.",
+    "i": "Write a roast about how some progressives shut down opposing views under the guise of progress.",
+    "n": "Expose their aversion to open dialogue."
+},
+{
+    "t": "Hashtag Activist",
+    "d": "Roasts woke activists for substituting social media posts for real action.",
+    "i": "Write a roast about how online activism rarely translates into meaningful change.",
+    "n": "Highlight the futility of performative activism."
+},
+{
+    "t": "Social Justice Accountant",
+    "d": "Roasts progressives for keeping a mental tally of 'oppressions.'",
+    "i": "Write a roast about how social justice warriors obsess over oppression rankings.",
+    "n": "Mock their victimhood hierarchy."
+},
+{
+    "t": "Free Speech Foe",
+    "d": "Roasts woke progressives for suppressing free speech in the name of tolerance.",
+    "i": "Write a roast about how progressives sometimes become the very censors they claim to oppose.",
+    "n": "Highlight the irony of their position."
+},
+{
+    "t": "Censorship Cheerleader",
+    "d": "Roasts woke activists for cheering censorship of dissenting views.",
+    "i": "Write a roast about how censorship harms the very causes they champion.",
+    "n": "Focus on the long-term consequences of suppressing free speech."
+},
+{
+    "t": "Woke Economics Wizard",
+    "d": "Roasts progressives for pushing economic policies that defy logic.",
+    "i": "Write a roast about how woke economics ignores basic math and practicality.",
+    "n": "Mock their reliance on utopian thinking."
+},
+{
+    "t": "Identity Politics Addict",
+    "d": "Roasts the obsession with identity politics over merit.",
+    "i": "Write a roast about how identity politics often divide rather than unite.",
+    "n": "Highlight how focusing on identity can overshadow real achievements."
+},
+{
+    "t": "Participation Trophy Patron",
+    "d": "Roasts the progressive tendency to reward mediocrity.",
+    "i": "Write a roast about how participation trophies devalue real accomplishments.",
+    "n": "Mock the culture of rewarding minimal effort."
+},
+{
+    "t": "Paperwork Prodigy",
+    "d": "Roasts the excessive reliance on paperwork in bureaucratic systems.",
+    "i": "Write a roast about how bureaucrats believe no problem exists that a few more forms can't solve.",
+    "n": "Highlight inefficiencies and the absurdity of redundant paperwork."
+},
+{
+    "t": "Permit Parade",
+    "d": "Roasts the endless permits required by overbearing governments.",
+    "i": "Write a roast about how even basic tasks require mountains of permits in a bloated bureaucracy.",
+    "n": "Focus on how it hinders progress and personal freedom."
+},
+{
+    "t": "Regulation Overload",
+    "d": "Roasts the obsession with creating endless rules and regulations.",
+    "i": "Write a roast about how every minor action seems to need a rulebook thanks to the state.",
+    "n": "Mock the unnecessary complexity this creates for citizens."
+},
+{
+    "t": "Department Devotee",
+    "d": "Roasts the creation of countless new government departments.",
+    "i": "Write a roast about how bureaucracies create new departments just to justify their own existence.",
+    "n": "Highlight the lack of tangible results from such expansions."
+},
+{
+    "t": "Public Sector Idolizer",
+    "d": "Roasts those who believe public sector growth is the key to societal improvement.",
+    "i": "Write a roast about how state expansionists think bigger government automatically means better outcomes.",
+    "n": "Point out the inefficiencies and costs of overreliance on public sectors."
+},
+{
+    "t": "Budget Black Hole",
+    "d": "Roasts the insatiable appetite of bureaucracies for taxpayer money.",
+    "i": "Write a roast about how every government program somehow needs more funding, no matter its results.",
+    "n": "Mock the inability to achieve efficiency despite massive budgets."
+},
+{
+    "t": "Red Tape Titan",
+    "d": "Roasts the burdensome red tape imposed by government bodies.",
+    "i": "Write a roast about how red tape seems to be more of a feature than a bug in bureaucratic systems.",
+    "n": "Show how it discourages innovation and creativity."
+},
+{
+    "t": "Committee Clog",
+    "d": "Roasts the endless meetings and committees in government operations.",
+    "i": "Write a roast about how bureaucrats love forming committees to 'discuss' instead of acting.",
+    "n": "Highlight the lack of decisive action."
+},
+{
+    "t": "Centralized Superfan",
+    "d": "Roasts the blind faith in centralized government control.",
+    "i": "Write a roast about how central planners think they know better than everyone else, despite repeated failures.",
+    "n": "Mock their arrogance and track record."
+},
+{
+    "t": "Efficiency Oxymoron",
+    "d": "Roasts the inherent inefficiency of bureaucracies.",
+    "i": "Write a roast about how bureaucrats manage to turn simple tasks into multi-year projects.",
+    "n": "Focus on how 'efficient bureaucracy' is an oxymoron."
+},
+{
+    "t": "Nanny State Nonsense",
+    "d": "Roasts the obsession with regulating every aspect of citizens' lives.",
+    "i": "Write a roast about how state expansionists want to micromanage even the most trivial personal decisions.",
+    "n": "Highlight the absurdity and overreach of such policies."
+},
+{
+    "t": "Tax-and-Spend Spectacle",
+    "d": "Roasts the constant cycle of increasing taxes to fund bloated government programs.",
+    "i": "Write a roast about how raising taxes is always the first and only solution bureaucrats think of.",
+    "n": "Point out the lack of accountability for spending."
+},
+{
+    "t": "Innovation Inhibitor",
+    "d": "Roasts how government overreach stifles private sector innovation.",
+    "i": "Write a roast about how excessive regulation and oversight kill creativity and progress.",
+    "n": "Highlight examples of missed opportunities due to bureaucratic meddling."
+},
+{
+    "t": "Public Sector Pride",
+    "d": "Roasts the inflated sense of self-importance in government workers.",
+    "i": "Write a roast about how bureaucrats believe their jobs are the most critical despite producing minimal results.",
+    "n": "Mock their inflated egos and lack of output."
+},
+{
+    "t": "Overhead Overlords",
+    "d": "Roasts the excessive administrative overhead in government systems.",
+    "i": "Write a roast about how every simple service requires layers of management and oversight.",
+    "n": "Highlight the inefficiency and waste this creates."
+},
+{
+    "t": "Mission Creep Maniac",
+    "d": "Roasts the tendency of government programs to expand far beyond their original scope.",
+    "i": "Write a roast about how bureaucracies can’t resist turning small projects into lifelong commitments.",
+    "n": "Show how this leads to mission drift and wasted resources."
+},
+{
+    "t": "Delay Champion",
+    "d": "Roasts the slow and cumbersome nature of bureaucratic decision-making.",
+    "i": "Write a roast about how bureaucracies take forever to make decisions, even on urgent matters.",
+    "n": "Highlight how delays often cause more harm than the problem itself."
+},
+{
+    "t": "Performance-Free Promotions",
+    "d": "Roasts the lack of meritocracy in bureaucratic systems.",
+    "i": "Write a roast about how government workers often get promoted despite poor performance.",
+    "n": "Point out the absurdity of rewarding mediocrity."
+},
+{
+    "t": "State Expansion Evangelist",
+    "d": "Roasts those who see state expansion as a moral imperative.",
+    "i": "Write a roast about how state expansionists believe more government is the answer to every problem.",
+    "n": "Focus on the unintended consequences of their ideology."
+},
+{
+    "t": "Public Parasite",
+    "d": "Roasts bureaucracies for feeding off taxpayer money without delivering value.",
+    "i": "Write a roast about how bureaucrats excel at extracting resources while providing the bare minimum in return.",
+    "n": "Mock the parasitic nature of bloated government institutions."
+},
+{
+    "t": "Taxation Tyrant",
+    "d": "Roasts leftist politicians' obsession with higher taxes.",
+    "i": "Write a roast about how leftist politicians always think more taxes are the solution to everything.",
+    "n": "Highlight how these taxes rarely benefit the average citizen."
+},
+{
+    "t": "Policy Pandemonium",
+    "d": "Roasts the chaotic and often contradictory policies proposed by leftist politicians.",
+    "i": "Write a roast about how their policies seem to solve one issue by creating ten others.",
+    "n": "Point out the unintended consequences of their ideas."
+},
+{
+    "t": "Green Scheme Dreamer",
+    "d": "Roasts leftist politicians for their impractical green policies.",
+    "i": "Write a roast about how their green initiatives are more about virtue signaling than real impact.",
+    "n": "Highlight their lack of realistic solutions."
+},
+{
+    "t": "Welfare Worshipper",
+    "d": "Roasts leftist politicians for expanding welfare programs endlessly.",
+    "i": "Write a roast about how leftist politicians act as if printing money is a sustainable welfare strategy.",
+    "n": "Focus on how this discourages productivity and innovation."
+},
+{
+    "t": "Identity Politics Pro",
+    "d": "Roasts leftist politicians for focusing excessively on identity politics.",
+    "i": "Write a roast about how they seem to divide rather than unite with their rhetoric.",
+    "n": "Highlight how identity politics distract from real issues."
+},
+{
+    "t": "Socialism Salesperson",
+    "d": "Roasts their attempts to rebrand socialism as progressive policy.",
+    "i": "Write a roast about how leftist politicians try to make socialism sound trendy despite its historical failures.",
+    "n": "Point out their lack of historical awareness."
+},
+{
+    "t": "Hypocrisy Herald",
+    "d": "Roasts their 'rules for thee but not for me' attitude.",
+    "i": "Write a roast about how leftist politicians push policies they don’t follow themselves.",
+    "n": "Focus on their double standards and elitism."
+},
+{
+    "t": "Deficit Defender",
+    "d": "Roasts their tendency to spend without regard for budget deficits.",
+    "i": "Write a roast about how leftist politicians act like debt is just a number in a spreadsheet.",
+    "n": "Highlight their disregard for economic sustainability."
+},
+{
+    "t": "Minimum Wage Messiah",
+    "d": "Roasts their obsession with raising minimum wages regardless of economic consequences.",
+    "i": "Write a roast about how leftist politicians ignore how these policies hurt small businesses.",
+    "n": "Mention their ignorance of basic economics."
+},
+{
+    "t": "Healthcare Hero Complex",
+    "d": "Roasts their lofty but impractical promises for universal healthcare.",
+    "i": "Write a roast about how leftist politicians oversimplify the complexities of healthcare systems.",
+    "n": "Point out how their plans often fail in execution."
+},
+{
+    "t": "Virtue Signal Virtuoso",
+    "d": "Roasts their love for symbolic actions over meaningful change.",
+    "i": "Write a roast about how leftist politicians love to signal virtue while doing little.",
+    "n": "Focus on their performative activism."
+},
+{
+    "t": "Big Government Buff",
+    "d": "Roasts their obsession with expanding government control.",
+    "i": "Write a roast about how leftist politicians believe every problem can be solved by a bigger government.",
+    "n": "Highlight the inefficiencies of government solutions."
+},
+{
+    "t": "Media Manipulator",
+    "d": "Roasts their cozy relationship with mainstream media.",
+    "i": "Write a roast about how leftist politicians get favorable coverage regardless of their failures.",
+    "n": "Highlight media bias in their favor."
+},
+{
+    "t": "Equality Extremist",
+    "d": "Roasts their unrealistic ideas of forcing equality in all aspects of life.",
+    "i": "Write a roast about how their quest for equality often undermines merit and excellence.",
+    "n": "Focus on how their ideas lead to mediocrity."
+},
+{
+    "t": "Cancel Culture Conductor",
+    "d": "Roasts their support for cancel culture to silence dissent.",
+    "i": "Write a roast about how leftist politicians use cancel culture to avoid accountability.",
+    "n": "Focus on their intolerance for opposing views."
+},
+{
+    "t": "Defund Dreamer",
+    "d": "Roasts their calls to defund critical institutions.",
+    "i": "Write a roast about how leftist politicians think defunding police will magically lead to safer communities.",
+    "n": "Highlight the absurdity of their logic."
+},
+{
+    "t": "Social Justice Warrior Supreme",
+    "d": "Roasts their relentless focus on social justice over practical governance.",
+    "i": "Write a roast about how leftist politicians prioritize activism over actual problem-solving.",
+    "n": "Point out their lack of effective leadership."
+},
+{
+    "t": "Regulation Relish",
+    "d": "Roasts their love for overregulating industries.",
+    "i": "Write a roast about how leftist politicians think strangling businesses with red tape helps the economy.",
+    "n": "Focus on the stifling impact of their policies."
+},
+{
+    "t": "Economic Illusionist",
+    "d": "Roasts their belief that printing money solves everything.",
+    "i": "Write a roast about how leftist politicians treat inflation like it’s an imaginary issue.",
+    "n": "Highlight their detachment from economic reality."
+},
+{
+    "t": "Crisis Creator",
+    "d": "Roasts their ability to turn small problems into national crises.",
+    "i": "Write a roast about how leftist politicians manufacture crises to push their agendas.",
+    "n": "Focus on their use of fear as a political tool."
+},
+{
+    "t": "Ideological Irony",
+    "d": "Roasts the contradictions in cultural Marxist rhetoric.",
+    "i": "Write a roast highlighting how cultural Marxists demand equality while promoting divisive identity politics.",
+    "n": "Focus on the irony of their 'unifying' goals causing more division."
+},
+{
+    "t": "Woke Wordsmith",
+    "d": "Roasts the progressive left's overuse of buzzwords.",
+    "i": "Write a roast about how their entire argument often hinges on trendy, meaningless jargon.",
+    "n": "Mock their reliance on catchphrases over substance."
+},
+{
+    "t": "Virtue Signal Vanguard",
+    "d": "Roasts the obsession with public displays of moral superiority.",
+    "i": "Write a roast about how progressives often prioritize appearing virtuous over actual change.",
+    "n": "Highlight the emptiness of performative activism."
+},
+{
+    "t": "Cancel Culture Cultist",
+    "d": "Roasts the progressive left’s obsession with cancel culture.",
+    "i": "Write a roast about how cultural Marxists weaponize outrage to silence dissent.",
+    "n": "Focus on the hypocrisy of claiming to support free speech while suppressing it."
+},
+{
+    "t": "Economic Fantasy Land",
+    "d": "Roasts their unrealistic economic policies.",
+    "i": "Write a roast about how progressive economic policies ignore basic supply-and-demand principles.",
+    "n": "Point out their naive belief in unlimited government resources."
+},
+{
+    "t": "Postmodern Preacher",
+    "d": "Roasts the progressive left’s rejection of objective truth.",
+    "i": "Write a roast about their claim that 'everything is relative'—except their opinions.",
+    "n": "Mock the absurdity of their postmodern worldview."
+},
+{
+    "t": "Safe Space Specialist",
+    "d": "Roasts their fixation on safe spaces.",
+    "i": "Write a roast about how progressives demand echo chambers to avoid uncomfortable truths.",
+    "n": "Highlight how this weakens their ability to handle dissent."
+},
+{
+    "t": "Identity Politician",
+    "d": "Roasts their overemphasis on identity politics.",
+    "i": "Write a roast about how dividing people into groups undermines their calls for unity.",
+    "n": "Focus on the contradictions within their advocacy."
+},
+{
+    "t": "Narrative Navigator",
+    "d": "Roasts their tendency to twist facts to fit their narrative.",
+    "i": "Write a roast about how progressives bend reality to support their worldview.",
+    "n": "Expose their selective use of facts and data."
+},
+{
+    "t": "Moral Relativism Roaster",
+    "d": "Roasts the progressive left's rejection of universal morality.",
+    "i": "Write a roast about how their 'flexible morality' leads to contradictory stances.",
+    "n": "Point out the confusion and chaos their approach causes."
+},
+{
+    "t": "Woke Utopian",
+    "d": "Roasts their idealistic but impractical visions of society.",
+    "i": "Write a roast about how progressives push for utopian ideals that collapse in reality.",
+    "n": "Focus on their inability to account for human nature."
+},
+{
+    "t": "Double Standard Dabbler",
+    "d": "Roasts their frequent use of double standards.",
+    "i": "Write a roast about how progressives apply one set of rules for themselves and another for others.",
+    "n": "Highlight the inconsistency in their logic."
+},
+{
+    "t": "Grievance Grifter",
+    "d": "Roasts their tendency to monetize victimhood.",
+    "i": "Write a roast about how progressives profit from pushing narratives of perpetual oppression.",
+    "n": "Focus on the commodification of outrage."
+},
+{
+    "t": "Free Speech Hypocrite",
+    "d": "Roasts their selective defense of free speech.",
+    "i": "Write a roast about how progressives defend free speech—until it contradicts their ideology.",
+    "n": "Expose the hypocrisy in their advocacy."
+},
+{
+    "t": "Academic Echo Chamber",
+    "d": "Roasts their dominance in academia.",
+    "i": "Write a roast about how progressives have turned universities into echo chambers for their ideology.",
+    "n": "Focus on the lack of intellectual diversity."
+},
+{
+    "t": "Equality Extremist",
+    "d": "Roasts their push for equality of outcome over opportunity.",
+    "i": "Write a roast about how progressives prioritize forced equality over meritocracy.",
+    "n": "Highlight how this stifles innovation and excellence."
+},
+{
+    "t": "Protest Performance Artist",
+    "d": "Roasts their theatrical approach to activism.",
+    "i": "Write a roast about how progressives often stage protests for attention rather than change.",
+    "n": "Focus on their lack of follow-through."
+},
+{
+    "t": "Redefinition Revolutionary",
+    "d": "Roasts their constant redefinition of common terms.",
+    "i": "Write a roast about how progressives distort language to control the narrative.",
+    "n": "Mock the absurdity of their rebranding efforts."
+},
+{
+    "t": "Diversity Dictator",
+    "d": "Roasts their obsession with diversity quotas.",
+    "i": "Write a roast about how progressives prioritize optics over actual qualifications.",
+    "n": "Point out the superficiality of their focus on appearances."
+},
+{
+    "t": "Entitlement Evangelist",
+    "d": "Roasts their culture of entitlement.",
+    "i": "Write a roast about how progressives demand benefits without accountability or contribution.",
+    "n": "Highlight the unsustainability of their demands."
+},
+{
+    "t": "Quota Queen",
+    "d": "Roasts the obsession with quotas over qualifications.",
+    "i": "Write a roast about how DEI initiatives prioritize ticking boxes over actual merit.",
+    "n": "Focus on how this can lead to inefficiency and mediocrity."
+},
+{
+    "t": "Inclusion Illusion",
+    "d": "Roasts the performative nature of inclusion efforts.",
+    "i": "Write a roast about how DEI efforts often feel more like PR stunts than real change.",
+    "n": "Mock the lack of genuine inclusivity."
+},
+{
+    "t": "Equity Evangelist",
+    "d": "Roasts the push for 'equity' as forced equality of outcome.",
+    "i": "Write a roast about how equity initiatives often punish success to level the playing field.",
+    "n": "Criticize the undermining of individual achievement."
+},
+{
+    "t": "Virtue Signal Victim",
+    "d": "Roasts companies using DEI to appear socially responsible.",
+    "i": "Write a roast about how businesses use DEI as a marketing tool without true commitment.",
+    "n": "Highlight the gap between their words and actions."
+},
+{
+    "t": "Bias Busters",
+    "d": "Roasts the excessive focus on unconscious bias training.",
+    "i": "Write a roast about how DEI programs spend fortunes on unproven bias training methods.",
+    "n": "Question the effectiveness of these efforts."
+},
+{
+    "t": "Mandatory Mediocrity",
+    "d": "Roasts the lowering of standards for the sake of diversity.",
+    "i": "Write a roast about how DEI initiatives sometimes compromise quality.",
+    "n": "Emphasize the risks of prioritizing diversity over capability."
+},
+{
+    "t": "Inclusion Fatigue",
+    "d": "Roasts the endless focus on inclusion to the detriment of productivity.",
+    "i": "Write a roast about how DEI training often feels like a waste of time.",
+    "n": "Highlight the overemphasis on inclusivity at the expense of getting work done."
+},
+{
+    "t": "Diversity Discrepancy",
+    "d": "Roasts the hypocrisy of DEI advocates who fail to practice what they preach.",
+    "i": "Write a roast about how DEI champions often come from privileged backgrounds.",
+    "n": "Expose the contradictions in their messaging."
+},
+{
+    "t": "Token Tyrant",
+    "d": "Roasts the use of token hires to satisfy DEI goals.",
+    "i": "Write a roast about how tokenism undermines real progress.",
+    "n": "Critique how token hires are often set up to fail."
+},
+{
+    "t": "Equity Economics",
+    "d": "Roasts the financial inefficiency of DEI programs.",
+    "i": "Write a roast about how companies pour money into DEI with minimal results.",
+    "n": "Focus on the cost-benefit imbalance."
+},
+{
+    "t": "Performative Ally",
+    "d": "Roasts individuals who use DEI to boost their own image.",
+    "i": "Write a roast about how some people champion DEI for personal clout.",
+    "n": "Expose their ulterior motives."
+},
+{
+    "t": "Exclusive Inclusivity",
+    "d": "Roasts the exclusion of dissenting voices in DEI discussions.",
+    "i": "Write a roast about how DEI often silences those with differing opinions.",
+    "n": "Highlight the irony of excluding people in the name of inclusion."
+},
+{
+    "t": "HR Nightmare",
+    "d": "Roasts the bureaucratic chaos caused by DEI policies.",
+    "i": "Write a roast about how DEI creates unnecessary red tape in organizations.",
+    "n": "Critique the inefficiency and confusion it often brings."
+},
+{
+    "t": "Diversity Dictator",
+    "d": "Roasts the authoritarian enforcement of DEI principles.",
+    "i": "Write a roast about how DEI becomes a rigid, unquestionable ideology.",
+    "n": "Critique the lack of flexibility and openness to critique."
+},
+{
+    "t": "Meritocracy Mourner",
+    "d": "Roasts the decline of meritocracy under DEI policies.",
+    "i": "Write a roast about how DEI sometimes replaces merit with identity politics.",
+    "n": "Emphasize the value of individual talent over group identity."
+},
+{
+    "t": "Equity Edgelord",
+    "d": "Roasts the overreach of DEI in redefining success and failure.",
+    "i": "Write a roast about how DEI initiatives attempt to rewrite standards to fit a narrative.",
+    "n": "Highlight the absurdity of changing definitions to suit agendas."
+},
+{
+    "t": "Checklist Champion",
+    "d": "Roasts the obsession with hitting diversity checklists.",
+    "i": "Write a roast about how DEI often reduces people to categories.",
+    "n": "Critique the dehumanizing effect of treating people as quotas."
+},
+{
+    "t": "Ideological Echo Chamber",
+    "d": "Roasts the lack of ideological diversity in DEI circles.",
+    "i": "Write a roast about how DEI discussions often exclude opposing viewpoints.",
+    "n": "Point out the irony of demanding diversity but rejecting dissent."
+},
+{
+    "t": "Forced Friendships",
+    "d": "Roasts the artificial nature of relationships fostered by DEI initiatives.",
+    "i": "Write a roast about how DEI programs create superficial connections.",
+    "n": "Mock the forced camaraderie they often impose."
+},
+{
+    "t": "Reverse Discrimination Denier",
+    "d": "Roasts the refusal to acknowledge reverse discrimination under DEI.",
+    "i": "Write a roast about how DEI advocates dismiss concerns about fairness for all groups.",
+    "n": "Focus on the one-sided nature of many DEI arguments."
+},
+{
+    "t": "Living Wage Illusionist",
+    "d": "Roasts the belief that raising the minimum wage magically improves everyone's lives.",
+    "i": "Write a roast about how minimum wage hikes often lead to higher costs of living and job cuts.",
+    "n": "Highlight how it sometimes hurts the very people it’s supposed to help."
+},
+{
+    "t": "Trickle-Up Tyranny",
+    "d": "Roasts the idea that forcing businesses to pay more won’t have downstream effects.",
+    "i": "Write a roast about how small businesses are crushed by minimum wage laws while big corporations thrive.",
+    "n": "Show how policies often favor monopolies over startups."
+},
+{
+    "t": "Wage Warrior's Wishful Thinking",
+    "d": "Roasts the notion that wage equality will lead to total economic happiness.",
+    "i": "Write a roast about how income equality dreams ignore human ambition and innovation.",
+    "n": "Point out how enforcing equality often leads to mediocrity."
+},
+{
+    "t": "Inflation Ignorer",
+    "d": "Roasts the ignorance of inflation when pushing for higher wages.",
+    "i": "Write a roast about how higher wages without productivity increases lead to inflation.",
+    "n": "Mock the economic naivety of those who ignore this cause and effect."
+},
+{
+    "t": "Job Killer",
+    "d": "Roasts how minimum wage laws can lead to unemployment.",
+    "i": "Write a roast about how businesses often automate or outsource jobs to avoid paying higher wages.",
+    "n": "Highlight the irony of policies meant to help workers eliminating their jobs instead."
+},
+{
+    "t": "Equality Overload",
+    "d": "Roasts the push for total income equality as unrealistic.",
+    "i": "Write a roast about how forced income equality discourages hard work and innovation.",
+    "n": "Use examples of failed attempts at equal income systems."
+},
+{
+    "t": "Cost of Good Intentions",
+    "d": "Roasts the unintended consequences of wage control policies.",
+    "i": "Write a roast about how good intentions often pave the way for economic disasters.",
+    "n": "Point out how simple solutions to complex problems rarely work."
+},
+{
+    "t": "Moral High Ground Hypocrisy",
+    "d": "Roasts wage equality advocates who earn far above the average worker.",
+    "i": "Write a roast about activists preaching equality while living lavish lifess.",
+    "n": "Highlight the disconnect between their words and actions."
+},
+{
+    "t": "One-Size-Fits-All Fallacy",
+    "d": "Roasts the idea that a single wage policy can work for everyone, everywhere.",
+    "i": "Write a roast about how minimum wages ignore regional cost-of-living differences.",
+    "n": "Point out how policies can hurt rural areas or small towns."
+},
+{
+    "t": "Startup Saboteur",
+    "d": "Roasts the impact of minimum wage on small startups.",
+    "i": "Write a roast about how small businesses struggle to survive under wage mandates.",
+    "n": "Highlight the irony of hurting entrepreneurs while claiming to support workers."
+},
+{
+    "t": "Overhead Oversight",
+    "d": "Roasts the failure to consider increased overhead costs for businesses.",
+    "i": "Write a roast about how mandatory wage hikes lead to higher prices for consumers.",
+    "n": "Mock how proponents rarely consider this chain reaction."
+},
+{
+    "t": "Equality Enforcer",
+    "d": "Roasts the belief that forced equality solves all societal problems.",
+    "i": "Write a roast about how income equality doesn’t account for differing skills or contributions.",
+    "n": "Point out the demotivation it causes for high achievers."
+},
+{
+    "t": "Billionaire Boogeyman",
+    "d": "Roasts the obsession with blaming billionaires for wage gaps.",
+    "i": "Write a roast about how targeting billionaires doesn’t fix systemic economic issues.",
+    "n": "Mock the fixation on wealth redistribution as a cure-all."
+},
+{
+    "t": "Over-Regulation Optimist",
+    "d": "Roasts the faith that more regulations will magically solve economic inequality.",
+    "i": "Write a roast about how over-regulating wages can stifle market dynamics.",
+    "n": "Show the downsides of too much government control."
+},
+{
+    "t": "Free Market Fighter",
+    "d": "Roasts those who oppose free-market solutions to wage disparities.",
+    "i": "Write a roast about how free-market competition often leads to better wages naturally.",
+    "n": "Highlight the benefits of market-driven wage growth."
+},
+{
+    "t": "Redistribution Realist",
+    "d": "Roasts unrealistic expectations of wealth redistribution policies.",
+    "i": "Write a roast about how redistributing wealth doesn’t increase overall economic prosperity.",
+    "n": "Show how redistribution often leads to inefficiencies."
+},
+{
+    "t": "Living Wage Lament",
+    "d": "Roasts the oversimplification of what a 'living wage' means.",
+    "i": "Write a roast about how the term 'living wage' varies wildly and is hard to define.",
+    "n": "Point out how it’s often used as an emotional argument without substance."
+},
+{
+    "t": "Tax-and-Spend Tyranny",
+    "d": "Roasts policies that raise taxes on businesses to pay for wage hikes.",
+    "i": "Write a roast about how such policies often drive companies out of local markets.",
+    "n": "Highlight the unintended consequences of these tax-and-spend approaches."
+},
+{
+    "t": "Automation Accelerator",
+    "d": "Roasts how wage mandates accelerate job automation.",
+    "i": "Write a roast about how policies aimed at helping workers often replace them with robots.",
+    "n": "Mock how shortsighted policies lead to long-term unemployment."
+},
+{
+    "t": "Equality Excuse",
+    "d": "Roasts using 'equality' as a catch-all justification for flawed policies.",
+    "i": "Write a roast about how 'equality' is used as a blanket excuse for bad economic ideas.",
+    "n": "Point out how it often ignores individual choices and contributions."
+}
+]
+}
